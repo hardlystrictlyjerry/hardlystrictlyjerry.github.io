@@ -1,5 +1,5 @@
 ---
-layout: monthlyjam
+layout: page
 permalink: /1
 ---
 
@@ -18,4 +18,6 @@ Here are the details on the July 2016 Hardly Strictly Jerry Jam:
   * Kids and friends welcome. 
   * Kickoff Setlist: Bertha, He's Gone, Mississippi Halfstep, Gomorrah, Second that Emotion, Scarlet-Fire, The harder they come.
   * Equipment: "Soft electric". No drumkits, please (congas OK). Acoustic and electric guitars OK. Two mikes and small PA will be provided. If bringing electric instrument please bring own amp if possible. Contact host if questions.
+  
+You might find the [resources page](/resources) to be useful.
 
