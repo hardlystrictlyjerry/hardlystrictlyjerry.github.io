@@ -12,17 +12,19 @@ Here are the details on the July 2016 Hardly Strictly Jerry Jam:
   * Contact: 808-366-2216, kevin@solpowerhawaii.com
   * Date: Sunday, July 17, 2016
   * Time: Setup after 5:00pm. First song: 5:30. Last song: 8:30.
-  * Food: BYOB. Grill provided. 
-  * Significant others, kids and friends welcome. 
-  * Startup Setlist: ???
+  * Food: BYOB, potluck. Grill provided. 
+  * Guests: Significant others, kids and friends welcome. 
+  * Startup Setlist: Bertha, Eyes of the World, Touch of Grey, Box of Rain, Brown Eyed Women, Don't Let Go, Sugaree, Uncle John's Band, The Wheel
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
-    * Acoustic and electric guitars OK. 
+    * Acoustic or electric guitars and other instruments are welcomed.
     * Two mikes and small PA will be provided. 
     * Please bring own amp if possible. 
 
-Please contact host if questions.
+Please RSVP to Kevin or Philip so we have a (Dead) head count.
+
+Contact Kevin or Philip if questions.
   
 <a href="/">
   <button class="ui primary button">About HSJ</button>
