@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /resources
 ---
 
 # Resources
@@ -9,9 +8,9 @@ Here are some helpful resources for Jerry's music.
 
 ### The Book
 
-The most important and useful resource is the [The Book](https://www.dropbox.com/s/zev0r30d2m6wknl/deadr4.pdf?dl=0), a free, crowd-sourced, 300 page PDF file containing the words and chords to 250+ songs in the Grateful Dead and Jerry's repertoire. (After opening, click on the \[***\] link to find a button to download the file. 
+The most important and useful resource is the [The Book](deadr4.pdf), a free, crowd-sourced, 300 page PDF file containing the words and chords to 250+ songs in the Grateful Dead and Jerry's repertoire. 
 
-We recommend you bring a copy either in electronic or physical form to the jam.
+For maximum spontaneity, we recommend you bring a copy either in electronic or physical form to the jam.
  
 ### ChordPro files
 

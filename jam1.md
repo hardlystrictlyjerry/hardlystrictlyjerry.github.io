@@ -1,23 +1,33 @@
 ---
 layout: page
-permalink: /1
+permalink: /july2016
 ---
 
 # July 2016 HSJ Jam
 
-*(This is a sample jam announcement.)*
-
 Here are the details on the July 2016 Hardly Strictly Jerry Jam:
 
-  * Host: Philip Johnson
-  * Address: 548 Kaimake Loop, Kailua HI, 96734
-  * Phone: 808-387-6663
-  * Date: Saturday, July 17, 2016
-  * Time: Setup after 5:30. First song: 6:30. Last song: 9:30.
+  * Host: Kevin Holder
+  * Address: 359 Wanaao Road, Kailua HI, 96734
+  * Contact: 808-366-2216, kevin@solpowerhawaii.com
+  * Date: Sunday, July 17, 2016
+  * Time: Setup after 5:00pm. First song: 5:30. Last song: 8:30.
   * Food: BYOB. Grill provided. 
-  * Kids and friends welcome. 
-  * Kickoff Setlist: Bertha, He's Gone, Mississippi Halfstep, Gomorrah, Second that Emotion, Scarlet-Fire, The harder they come.
-  * Equipment: "Soft electric". No drumkits, please (congas OK). Acoustic and electric guitars OK. Two mikes and small PA will be provided. If bringing electric instrument please bring own amp if possible. Contact host if questions.
+  * Significant others, kids and friends welcome. 
+  * Startup Setlist: ???
+  * Equipment: 
+    * "Soft electric". 
+    * No drumkits, please (hand drums preferred). 
+    * Acoustic and electric guitars OK. 
+    * Two mikes and small PA will be provided. 
+    * Please bring own amp if possible. 
+
+Please contact host if questions.
   
-You might find the [resources page](/resources) to be useful.
+<a href="/">
+  <button class="ui primary button">About HSJ</button>
+</a>
+<a href="/resources">
+  <button class="ui primary button">Music Resources</button>
+</a>
 
