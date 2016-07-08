@@ -3,7 +3,8 @@ layout: page
 permalink: /july2016
 ---
 
-# July 2016 HSJ Jam
+
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg"> July 2016 HSJ Jam</h1>
 
 Here are the details on the July 2016 Hardly Strictly Jerry Jam:
 
