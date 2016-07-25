@@ -14,9 +14,9 @@ Songs: Bertha, Eyes of the World, Bird Song, Man Smart/Women Smarter, They Love 
 
 Many thanks to Joanne for catching the following moments from the July HSJ Jam.
 
-#### Brown Eyed Women
+#### Bit of Brown Eyed Women
 
-A little bit of Brown Eyed Women while it was still light out:
+A sample of Brown Eyed Women with Jeremy and Justin solos while it was still light out:
 
 <div class="ui embed" data-source="youtube" data-id="SJ5KZh41FwQ"></div>
 

@@ -8,9 +8,21 @@ Here are some helpful resources for Jerry's music.
 
 ### The Book
 
-The most important and useful resource is the [The Book](deadr4.pdf), a free, crowd-sourced, 300 page PDF file containing the words and chords to 250+ songs in the Grateful Dead and Jerry's repertoire. 
+The most important and useful resource is the [The Book](deadr5v4.pdf), a free, crowd-sourced, 300 page PDF file containing the words and chords to 250+ songs in the Grateful Dead and Jerry's repertoire. 
 
 For maximum spontaneity, we recommend you bring a copy either in electronic or physical form to the jam.
+
+Here is the easiest way to get The Book onto your iPad or iPhone:
+
+  1. Download The Book from this page, then email it to yourself as an attachment. (If this is difficult, send Philip a text or email and he will email it to you.)
+  
+  2. On your iPad or iPhone, read this email and then click on the attachment to open The Book within your email app.
+  
+  3. Once The Book is displaying on your screen, tap it to display a box with an upward pointing arrow icon in the top-right corner. 
+  
+  4. Tap on that box+arrow icon to display options regarding where you can "send" the attachment. Select "Copy to iBooks".  
+  
+  5. Now The Book will be available as a PDF document within your iBooks application. Open that app and select the deadr5v4 document to display. Note that you can click on a song in the table of contents to go directly to that page. 
  
 ### ChordPro files
 
