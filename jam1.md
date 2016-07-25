@@ -10,9 +10,9 @@ Many thanks to Kevin and Heidi for hosting the July HSJ Jam: opening their house
  
 Songs: Bertha, Eyes of the World, Bird Song, Man Smart/Women Smarter, They Love Each Other, Brown Eyed Women, Don't Let Go, Franklin's Tower, Sugaree, Uncle John's Band, The Wheel, and probably a few others I've forgotten.
 
-<h2>Video Vignettes</h2>
+<h2>Audio and Video Vignettes</h2>
 
-Many thanks to Joanne for catching the following moments from the July HSJ Jam.
+Many thanks to Joanne for filming the following moments from the July HSJ Jam.
 
 #### Bit of Brown Eyed Women
 
@@ -31,6 +31,12 @@ We played The Wheel once, then decided it we stopped too soon and played it all 
 Finally, the "Justin Where Are You?" jam:
 
 <div class="ui embed" data-source="youtube" data-id="QvuRHRY-tNA"></div>
+
+#### Bird Song
+
+Paul taped our impromptu 15 minute version of Bird Song:
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275342012&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 
