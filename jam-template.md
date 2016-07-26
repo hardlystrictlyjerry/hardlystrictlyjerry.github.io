@@ -20,7 +20,7 @@ Agenda for the August 2016 Hardly Strictly Jerry Jam:
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
     * Acoustic or electric guitars and other instruments are welcomed.
-    * Two mikes and small PA will be provided. 
+    * Small PA will be provided. 
     * Please bring own amp if possible. 
 
 Please RSVP via email or text to Philip so we have a (Dead) head count.
