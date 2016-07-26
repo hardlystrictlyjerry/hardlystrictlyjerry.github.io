@@ -16,7 +16,7 @@ Here is the easiest way to get The Book onto your iPad or iPhone:
 
   1. Download The Book from this page, then email it to yourself as an attachment. (If this is difficult, send Philip a text or email and he will email it to you.)
   
-  2. On your iPad or iPhone, read this email and then click on the attachment to open The Book within your email app.
+  2. On your iPad or iPhone, open the email and then tap on the attachment to open The Book within your email app.
   
   3. Once The Book is displaying on your screen, tap it to display a box with an upward pointing arrow icon in the top-right corner. 
   

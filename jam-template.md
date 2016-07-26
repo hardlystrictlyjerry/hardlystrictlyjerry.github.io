@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /aug2016
+permalink: /changeme
 ---
 
 
