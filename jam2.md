@@ -15,7 +15,7 @@ Agenda for the August 2016 Hardly Strictly Jerry Jam:
   * Time: Setup after 5:00pm. First set: 5:30-6:30. Chili: 6:30-7:00. Second set: 7:00-8:30.
   * Food: We'll provide chili, rice, and corn bread. Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: Touch of Grey, Box of Rain, Althea, Shakedown Street, Cold Rain and Snow, Ramble On Rose, Stagger Lee, Alabama Getaway
+  * Startup Setlist: Alabama Getaway, Althea, Box of Rain, Cold Rain and Snow, Crazy Fingers, Ramble On Rose, Shakedown Street, Stagger Lee, Touch of Grey.     
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
