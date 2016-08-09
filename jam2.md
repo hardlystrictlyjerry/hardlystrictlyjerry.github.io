@@ -10,11 +10,11 @@ Agenda for the August 2016 Hardly Strictly Jerry Jam:
   * Host: Philip Johnson
   * Address: 548 Kaimake Loop, Kailua HI, 96734
   * Contact: 808-387-6663, johnson@hawaii.edu
-  * Date: *(Not Decided!)* Sunday, August 21 or 28?
-  * Time: Setup after 5:00pm. First set: 5:30-6:30. Chili: 6:30-7:00. Second set: 7:00-8:30.
+  * Date: Sunday, August 28
+  * Time: Setup at 5:00pm. First set: 5:30-6:30. Chili: 6:30-7:00. Second set: 7:00-8:30.
   * Food: We'll provide chili, rice, and corn bread. Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: Alabama Getaway, Althea, Box of Rain, Cold Rain and Snow, Crazy Fingers, Ramble On Rose, Scarlet Begonias, Shakedown Street, Stagger Lee, The Harder They Come, Touch of Grey, Terrapin.  *(Too many! Please recommend songs to cut!)* 
+  * Startup Setlist: Althea, Cold Rain and Snow, Crazy Fingers, Eyes of the World, Ramble On Rose, Scarlet -> Fire, Stagger Lee, Touch of Grey.
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
