@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Jerry Garcia played many different styles &mdash; folk, bluegrass, rock, reggae, jazz, country &mdash; sometimes all within the same tune! It's fun to play Jerry's music in part because of this lack of stylistic limitation.
+Jerry Garcia played many different styles &mdash; rock, jazz, fusion, gospel, soul, Motown, bluegrass, funk, and folk &mdash; sometimes combining a few within the same tune! It's fun to play Jerry's music in part because of this lack of stylistic limitation.
 
 In this mostly monthly musical gathering, we'll play the music that Jerry wrote, the music that Jerry covered, and even the music that we think Jerry might have liked had he been around to hear it.
 

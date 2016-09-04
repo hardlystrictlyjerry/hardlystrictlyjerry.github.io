@@ -4,4 +4,4 @@ _site
 
 .idea/
 template.iml
-
+.DS_Store
