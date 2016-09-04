@@ -51,6 +51,9 @@ Here are short excerpts from various song, carefully selected to avoid the more 
 <a href="/resources">
   <button class="ui primary button">Music Resources</button>
 </a>
+<a href="/july2016">
+  <button class="ui primary button">July 2016</button>
+</a>
 
 
 
