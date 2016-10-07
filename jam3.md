@@ -34,7 +34,7 @@ A note on HSJ setlists:
   * The host should have significant input into the setlist as a reward and incentive for hosting. :)
   * Most people prefer a mixture of previously played and new tunes in the setlist each month.
 
-Please RSVP via email or text to Thomas so we have a (Dead) head count.
+Please RSVP to the text message list so Thomas has a (Dead) head count.
 
 # More on HSJ
 
