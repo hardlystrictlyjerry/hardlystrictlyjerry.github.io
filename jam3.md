@@ -4,7 +4,7 @@ permalink: /oct2016
 ---
 
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg"> October HSJ Jam</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">October HSJ</h1>
 
 Agenda for the October 2016 Hardly Strictly John, Paul, George, and Ringo Jam:
 
@@ -15,7 +15,7 @@ Agenda for the October 2016 Hardly Strictly John, Paul, George, and Ringo Jam:
   * Time: Setup after 5:30pm. Start playing at 6pm.
   * Food: Potluck. Please bring something to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Viola Lee Blues, Gomorrah, Jack Straw, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
+  * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Viola Lee Blues, Gomorrah, Jack Straw, Ripple, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
