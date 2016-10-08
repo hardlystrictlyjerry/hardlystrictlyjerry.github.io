@@ -12,7 +12,7 @@ Agenda for the October 2016 Hardly Strictly John, Paul, George, and Ringo Jam:
   * Address: 589 Iana St., Kailua HI, 96734
   * Contact: 808-292-0962 (text message strongly preferred)
   * Date: Sunday, October 23
-  * Time: Setup after 5:30pm. Start playing at 6pm.
+  * Time: Setup at 4:30pm. Start playing at 5pm.
   * Food: Potluck. Please bring something to share. 
   * Guests: Significant others, kids and friends welcome. 
   * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Viola Lee Blues, Gomorrah, Jack Straw, Ripple, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
