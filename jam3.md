@@ -15,7 +15,7 @@ Agenda for the October 2016 Hardly Strictly John, Paul, George, and Ringo Jam:
   * Time: Setup at 4:30pm. Start playing at 5pm.
   * Food: Potluck. Please bring something to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Viola Lee Blues, Gomorrah, Jack Straw, Ripple, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
+  * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Gomorrah, Jack Straw, Ripple, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
