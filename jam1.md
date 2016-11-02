@@ -38,16 +38,6 @@ Paul taped our impromptu 15 minute version of Bird Song:
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275342012&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-# More on HSJ
-  
-<a href="/">
-  <button class="ui primary button">About HSJ</button>
-</a>
-<a href="/resources">
-  <button class="ui primary button">Music Resources</button>
-</a>
-<a href="/aug2016">
-  <button class="ui primary button">August 2016</button>
-</a>
+
 
 

@@ -36,23 +36,6 @@ A note on HSJ setlists:
 
 Please RSVP to the text message list so Thomas has a (Dead) head count.
 
-# More on HSJ
 
-<div class="ui center aligned four column stackable grid content">
-  <div class="column">
-    <a href="/"><button class="ui primary button">About HSJ</button></a>
-  </div>
-  <div class="column">
-    <a href="/resources"><button class="ui primary button">Resources</button></a>
-  </div>
-  <div class="column">
-    <a href="/july2016"><button class="ui primary button">July 2016</button></a>
-  </div>
-  <div class="column">
-    <a href="/aug2016"> <button class="ui primary button">August 2016</button></a>
-  </div>
-</div>
-
- 
 
 

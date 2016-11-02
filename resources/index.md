@@ -4,7 +4,11 @@ layout: page
 
 # Resources
 
-Here are some helpful resources for Jerry's music.  
+Here are some helpful resources for Hardly Strictly Jerry.
+
+### Our setlists
+
+See our [setlist page](/setlist)
 
 ### The Book
 
