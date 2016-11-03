@@ -11,11 +11,11 @@ Agenda for the November 2016 Hardly Strictly Jerry Jam:
   * Host: Michael Shapiro
   * Address: 1036 Lunaai Place, Kailua HI, 96734
   * Contact: 808-225-0982
-  * Date: **EITHER:** Saturday, Nov 19 or Sunday, Nov 20
+  * Date: Saturday, Nov 19
   * Time: Setup at 4:30pm. Start playing at 5pm. Finish by 8pm.
   * Food: Potluck. Please bring something to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist (previously played tunes in italics): *Bird Song*, *Althea*, *Franklin's Tower*, Terrapin, Wharf Rat, Sugar Mag, Loose Lucy (not too fast), China/Rider, Loser.
+  * Startup Setlist (previously played tunes in italics): *Bird Song*, *Althea*, *Franklin's Tower*, Terrapin, Wharf Rat, Sugar Mag, Loose Lucy (not too fast), China/Rider, Loser, Mission in the Rain.
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
