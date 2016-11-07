@@ -8,11 +8,13 @@ permalink: /setlists
 
 9. Althea (8/16)
 1. Bertha (7/16)
+2. Big River (7/16)
 2. Bird Song (7/16)
 3. Brown Eyed Women (7/16)
 9. Cold Rain and Snow (8/16)
 9. Crazy Fingers (8/16)
 9. Dear Prudence (9/16)
+9. Dire Wolf (7/16)
 6. Don't Let Go (7/16)
 4. Eyes of the World (7/16, 8/16)
 5. Franklin's Tower (7/16)
