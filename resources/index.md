@@ -8,7 +8,7 @@ Here are some helpful resources for Hardly Strictly Jerry.
 
 ### Our setlists
 
-See our [setlist page](/setlist)
+See our [setlist page](/setlists)
 
 ### The Book
 
