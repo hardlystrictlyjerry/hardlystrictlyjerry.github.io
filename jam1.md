@@ -10,7 +10,7 @@ Many thanks to Kevin and Heidi for hosting the July HSJ Jam: opening their house
  
 Songs: Bertha, Eyes of the World, Bird Song, Man Smart/Women Smarter, They Love Each Other, Brown Eyed Women, Don't Let Go, Franklin's Tower, Sugaree, Uncle John's Band, The Wheel, Dire Wolf, Big River, and probably a few others I've forgotten.
 
-<h2>Audio and Video Vignettes</h2>
+## Audio and Video Vignettes 
 
 Many thanks to Joanne for filming the following moments from the July HSJ Jam.
 

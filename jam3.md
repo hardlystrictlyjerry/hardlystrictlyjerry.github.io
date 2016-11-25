@@ -6,36 +6,35 @@ permalink: /oct2016
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">October HSJ</h1>
 
-Agenda for the October 2016 Hardly Strictly John, Paul, George, and Ringo Jam:
+Many thanks to Thomas for hosting the jam. Here's hoping the neighbors who dropped in enjoyed our musical meanderings!
 
-  * Host: Thomas Cummings
-  * Address: 589 Iana St., Kailua HI, 96734
-  * Contact: 808-292-0962 (text message strongly preferred)
-  * Date: Sunday, October 23
-  * Time: Setup at 4:30pm. Start playing at 5pm.
-  * Food: Potluck. Please bring something to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist (previously played tunes in italics): Dear Prudence, Revolution, Norwegian Wood, Get Back, Mississippi Half-Step, Gomorrah, Jack Straw, Ripple, *Touch of Grey*, *Scarlet Begonias*, *Eyes of the World* 
-  * Equipment: 
-    * "Soft electric". 
-    * No drumkits, please (hand drums preferred). 
-    * Acoustic or electric guitars and other instruments are welcomed.
-    * Small PA will be provided. 
-    * Please bring own amp if possible. 
-    
-A note on this month's setlist:
+Songs: Friend of the Devil, Mississippi Half Step, Jack Straw, Dear Prudence, Scarlet Begonias, Fire on the mountain, Get Back, Revolution, Gomorrah, Touch of Grey, Ripple.
 
-  * Thomas expressed a preference for Beatles tunes, so the setlist includes two Beatles songs the Dead covered (Dear Prudence, Revolution), and two songs they didn't but folks suggested (Norwegian Wood, Get Back).
-  * Since Justin is absent this month, Philip proposes that we defer PITB and China-Rider.
+## Audio Vignettes
 
-A note on HSJ setlists: 
-
-  * I've discussed setlist heuristics with most everyone. While there is some variation in opinion, I think the general consensus is as follows:
-  * The host should have significant input into the setlist as a reward and incentive for hosting. :)
-  * Most people prefer a mixture of previously played and new tunes in the setlist each month.
-
-Please RSVP to the text message list so Thomas has a (Dead) head count.
+Carefully curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
 
 
+### Ripple
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294756532&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### Dear Prudence
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294757089&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Mississippi Half Step
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294757203&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Gomorrah
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294756769&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Friend of the Devil
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294757453&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Scarlet
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294756971&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

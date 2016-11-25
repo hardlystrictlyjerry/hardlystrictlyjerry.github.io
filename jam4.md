@@ -6,27 +6,48 @@ permalink: /nov2016
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">November HSJ</h1>
 
-Agenda for the November 2016 Hardly Strictly Jerry Jam:
+Many thanks to Michael for both hosting the jam and for bringing such tasty acoustic licks into the mix!  Kevin "forgot" to bring the PA, but in some ways that seems to have improved the sound. Go figure. 
 
-  * Host: Michael Shapiro
-  * Address: 1036 Lunaai Place, Kailua HI, 96734
-  * Contact: 808-225-0982
-  * Date: Saturday, Nov 19
-  * Time: Setup at 4:30pm. Start playing at 5pm. Finish by 8pm.
-  * Food: Potluck. Please bring something to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist (previously played tunes in italics): *Bird Song*, *Althea*, *Franklin's Tower*, Terrapin, Wharf Rat, Sugar Mag, Loose Lucy (not too fast), China/Rider, Loser, Mission in the Rain.
-  * Equipment: 
-    * "Soft electric". 
-    * No drumkits, please (hand drums preferred). 
-    * Acoustic or electric guitars and other instruments are welcomed.
-    * Small PA will be provided. 
-    * Please bring own amp if possible. 
+Songs: Althea, Franklin's Tower, Terrapin, Wharf Rat, Sugar Magnolia, Bird Song, China-Rider, Loose Lucy, Mission in the Rain.
 
-Please RSVP to the text message list so Michael has a (Dead) head count.
+## Audio Vignettes
+
+Carefully curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+### Terrapin Station
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767922&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### China cat sunflower
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767400&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
+### I know you rider
 
- 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767279&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### Althea
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294768108&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Franklin's Tower
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294768018&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Bird Song
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767682&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Sugar Magnolia
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767790&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Mission in the rain
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767067&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Loose Lucy
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294767168&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

@@ -11,7 +11,7 @@ Songs: Sitting in Limbo, GDTRFB, Althea, Cold Rain and Snow, Crazy Fingers, Eyes
 
 ## Audio Vignettes
 
-Here are short excerpts from various song, carefully selected to avoid the more major train wrecks:
+Carefully curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
 
 ### GDTRFB
 
