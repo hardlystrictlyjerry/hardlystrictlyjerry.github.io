@@ -3,7 +3,7 @@ layout: page
 permalink: /aug2016
 ---
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg"> August HSJ Jam</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">August 2016</h1>
 
 Many thanks to Joanne and Philip for the chili, Chris for the corn bread, Justin for the poke, Paul for the brownies, and Kevin for the salad, hummus, crackers, and PA.
 

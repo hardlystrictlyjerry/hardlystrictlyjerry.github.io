@@ -4,7 +4,7 @@ permalink: /nov2016
 ---
 
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">November HSJ</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">November 2016</h1>
 
 Many thanks to Michael for both hosting the jam and for bringing such tasty acoustic licks into the mix!  Kevin "forgot" to bring the PA, but in some ways that seems to have improved the sound. Go figure. 
 

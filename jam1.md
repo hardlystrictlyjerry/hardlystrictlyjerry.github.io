@@ -4,7 +4,7 @@ permalink: /july2016
 ---
 
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg"> July HSJ Jam</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">July 2016</h1>
 
 Many thanks to Kevin and Heidi for hosting the July HSJ Jam: opening their house, making delicious food (thanks Heidi!), setting up the PA after setting up and tearing down the PA earlier that day (thanks Kevin!)
  
