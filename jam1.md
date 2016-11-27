@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /july2016
+permalink: /jul2016
 ---
 
 
