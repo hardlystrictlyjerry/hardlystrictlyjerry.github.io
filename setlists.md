@@ -6,6 +6,8 @@ permalink: /setlists
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">HSJ Setlists</h1>
 
+The column number is a link to the page associated with that setlist.
+
 <table class="ui unstackable compact celled basic table">
   <thead>
     <tr>

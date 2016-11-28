@@ -6,6 +6,8 @@ permalink: /oct2016
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">October 2016</h1>
 
+<img class="ui centered fluid image" src="/images/hsj-oct.jpg">
+
 Many thanks to Thomas for hosting the jam. Here's hoping the neighbors who dropped in enjoyed our musical meanderings!
 
 Songs: Friend of the Devil, Mississippi Half Step, Jack Straw, Dear Prudence, Scarlet Begonias, Fire on the mountain, Get Back, Revolution, Gomorrah, Touch of Grey, Ripple.
