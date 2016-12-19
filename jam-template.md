@@ -4,7 +4,7 @@ permalink: /template
 ---
 
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg"> August HSJ Jam</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">August 2016</h1>
 
 Agenda for the August 2016 Hardly Strictly Jerry Jam:
 
@@ -25,12 +25,5 @@ Agenda for the August 2016 Hardly Strictly Jerry Jam:
 
 Please RSVP via email or text to Philip so we have a (Dead) head count.
   
-<a href="/">
-  <button class="ui primary button">About HSJ</button>
-</a>
-<a href="/resources">
-  <button class="ui primary button">Music Resources</button>
-</a>
-
 
 
