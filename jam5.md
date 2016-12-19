@@ -15,7 +15,7 @@ Agenda for the January 2017 Hardly Strictly Jeremy's Birthday Jam:
   * Time: Setup 4:30-5:15pm. Play 5:15-8:30pm
   * Food: Please bring pupu to share. 
   * Guests: Significant others welcome. 
-  * Startup Setlist: Feel Like a Stranger, Me & My Uncle, Jack Straw, Playing in the Band, Wharf Rat, Deal, When I paint my Masterpiece, NFA/GDTRFB
+  * Startup Setlist: Feel Like a Stranger, Me & My Uncle, Jack Straw, The Music Never Stopped, Wharf Rat, Deal, When I Paint My Masterpiece, NFA/GDTRFB
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
