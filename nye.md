@@ -6,7 +6,7 @@ layout: newyears
 
 Paul Perrone invites the HSJ family and friends to a pre and post Phil and Friends jam at his studio.
  
-*Where:* 1154 Fort Street Mall. Standing on the mall facing the building, you'll see a large open entrance area blocked by a gate of black bars. Call Paul at 808-228-6066 when you get there and he will come down to let you in.  
+*Where:* 1154 Fort Street Mall. Standing on the mall facing the building, you'll see a large open entrance area blocked by a gate of black bars. Call Paul at <a href="tel:808-228-6066">808-228-6066</a> when you get there and he will come down to let you in.  
 
 *When:* Doors for Phil open at 8pm. Sometime after 6pm? Post-show nightcap also a possibility.
 
