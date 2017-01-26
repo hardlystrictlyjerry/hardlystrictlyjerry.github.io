@@ -25,5 +25,28 @@ Agenda for the August 2016 Hardly Strictly Jerry Jam:
 
 Please RSVP via email or text to Philip so we have a (Dead) head count.
   
+  
+  
+<!---
+Agenda for the January 2017 Hardly Strictly Jeremy's Birthday Jam:
+
+  * Host: Jeremy Pearl
+  * Address: 1220 Kina Street, Kailua HI, 96734
+  * Contact: 808-492-9147, jeremy@eventexpert.net
+  * Date: Saturday, January 14
+  * Time: Setup 4:30-5:15pm. Play 5:15-8:30pm
+  * Food: Please bring pupu to share. 
+  * Guests: Significant others welcome. 
+  * Startup Setlist: Feel Like a Stranger, Me & My Uncle, Jack Straw, The Music Never Stopped, Wharf Rat, Deal, When I Paint My Masterpiece, NFA/GDTRFB
+  * Equipment: 
+    * "Soft electric". 
+    * No drumkits, please (hand drums preferred). 
+    * Acoustic or electric guitars and other instruments are welcomed.
+    * Small PA will be provided. 
+    * Please bring own amp if possible. 
+
+Please RSVP so we have a (Dead) head count.
+--->  
+
 
 

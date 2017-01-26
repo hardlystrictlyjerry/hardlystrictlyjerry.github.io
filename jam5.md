@@ -6,24 +6,30 @@ permalink: /jan2017
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">January 2017</h1>
 
-Agenda for the January 2017 Hardly Strictly Jeremy's Birthday Jam:
+<img class="ui centered fluid image" src="/images/jan2017.jpg">
 
-  * Host: Jeremy Pearl
-  * Address: 1220 Kina Street, Kailua HI, 96734
-  * Contact: 808-492-9147, jeremy@eventexpert.net
-  * Date: Saturday, January 14
-  * Time: Setup 4:30-5:15pm. Play 5:15-8:30pm
-  * Food: Please bring pupu to share. 
-  * Guests: Significant others welcome. 
-  * Startup Setlist: Feel Like a Stranger, Me & My Uncle, Jack Straw, The Music Never Stopped, Wharf Rat, Deal, When I Paint My Masterpiece, NFA/GDTRFB
-  * Equipment: 
-    * "Soft electric". 
-    * No drumkits, please (hand drums preferred). 
-    * Acoustic or electric guitars and other instruments are welcomed.
-    * Small PA will be provided. 
-    * Please bring own amp if possible. 
+Many thanks to Jeremy and Molly for hosting the Hardly Strictly Jeremy's Birthday Jam!  Lots of good food, music, and company was had by all!
+ 
+Songs: Bertha, Feel Like a Stranger, Althea, Me & My Uncle, Jack Straw, Franklin's Tower, Wharf Rat, Deal, NFA/GDTRFB, acapella Fat Man in the Bathtub, and probably some others lost to history due to Paul's recorder somehow getting cut off at the start of the second set.
 
-Please RSVP so we have a (Dead) head count.
-  
+## Audio Vignettes
+
+Carefully curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. First set is the only one available this month.
+
+### Althea
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304517367&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Me and My Uncle
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304517481&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Bertha
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304517049&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Deal
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304517639&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
