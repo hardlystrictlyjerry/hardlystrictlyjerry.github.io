@@ -7,7 +7,7 @@ permalink: /hss2017
 
 <img class="ui centered fluid image" src="/images/hss2017.png">
 
-John Stallings invites the HSJ crew to participate in a BBQ and jam session on Saturday, February 4, 2017 on [112 S. Kalaheo Ave, Kailua, HI 96734](http://maps.google.com/?q=112%20S.%20Kalaheo%20Ave,%20Kailua,%20HI%2096734). Eat, drink, and get merry from 5-6pm, jam from 6-8pm. 
+John Stallings invites the HSJ krewe to participate in a BBQ and jam session on Saturday, February 4, 2017 on [112 S. Kalaheo Ave, Kailua, HI 96734](http://maps.google.com/?q=112%20S.%20Kalaheo%20Ave,%20Kailua,%20HI%2096734). Eat, drink, and get merry from 5-6pm, jam from 6-8pm. 
 
 Here's what you need to know and do:
 
