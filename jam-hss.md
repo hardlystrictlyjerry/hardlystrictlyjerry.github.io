@@ -16,22 +16,22 @@ Based on your song requests, here's a proposal for a semi-organized jam session.
  
 Set One: Philip and Friends
 
-* Larry, Philip, Michael, Doug
+* Larry, Philip, Michael, Doug, and/or others.
 * Midnight Moonlight, Bertha, Everyday People, Don't Let Go, Sugaree, and/or others.
 
 Set Two: Hardly Strictly Jeremy
 
-* Michael, Larry, Jeremy, Kevin
+* Michael, Larry, Jeremy, Kevin, and/or others.
 * Tangled Up in Blue, Terrapin, Friend of the Devil, Eyes, Althea, and/or others.
 
 Set Three: Old Speedway Boogie
 
-* Larry, Jeremy, Boogie, Kevin, Doug
+* Larry, Jeremy, Boogie, Kevin, Doug, and/or others.
 * Think of What You've Done, Panama Red, Positively 4th Street, Scarlet Begonias, I Scare Myself, and/or others.
 
 Set Four: The Stallinators
 
-* (Anyone and everyone)
+* Anyone and everyone.
 * Jack Straw, Mississippi Half Step, Cassidy, Let's Impeach the President, Bird Song, The Weight, Uncle John's Band, Waste, and/or others.
 
 
