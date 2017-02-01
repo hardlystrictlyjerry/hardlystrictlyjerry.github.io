@@ -1,5 +1,5 @@
 ---
-layout: newyears
+layout: nofooter
 permalink: nye2016
 ---
 

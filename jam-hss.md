@@ -7,18 +7,31 @@ permalink: /hss2017
 
 <img class="ui centered fluid image" src="/images/hss2017.png">
 
-John Stallings invites the HSJ krewe to participate in a BBQ and jam session on Saturday, February 4, 2017 on [112 S. Kalaheo Ave, Kailua, HI 96734](http://maps.google.com/?q=112%20S.%20Kalaheo%20Ave,%20Kailua,%20HI%2096734). Eat, drink, and get merry from 5-6pm, jam from 6-8pm. 
+John Stallings invites the HSJ krewe to participate in a BBQ and jam session on Saturday, February 4, 2017.
+ 
+Place: [112 S. Kalaheo Ave, Kailua, HI 96734](http://maps.google.com/?q=112%20S.%20Kalaheo%20Ave,%20Kailua,%20HI%2096734). 
+See the [Invitation](https://goo.gl/qjs29A) for details. You can bring friends! Eat 5-6pm, Jam 6-8pm.
 
-Here's what you need to know and do:
+Based on your song requests, here's a proposal for a semi-organized jam session. The plan is three sets with different mixtures of musicians, followed by an open jam session where anyone plays whatever they want.  But the goal is fun, so feel free add, subtract, and totally disregard the following if you like.
+ 
+Act One: Philip and Friends
 
-* Click [here](https://goo.gl/qjs29A) to see the invitation.
+* Larry, Philip, Michael, Doug
+* Midnight Moonlight, Bertha, Everyday People, Don't Let Go, Sugaree
 
-* Click [here](https://goo.gl/3CxNlT) to RSVP. John needs a headcount so he can prepare enough food. You can bring your friends!
+Act Two: Hardly Strictly Jeremy
 
-Finally, I am helping Doug Dirt of the Banana Slug String Band to organize the jam. John has invited other musicians in addition to HSJ.  Doug and I hope to create an online list of songs people want to play and what instruments they want to play on them.  We hope this approach will naturally result in small ensembles for "mini-sets" of a few songs and avoid eight guitarists playing at once, only four of whom know the tune.
-  
-So, please click [here](https://goo.gl/88Q5rU) to access the online list of songs. Anyone can edit it. Please update with new songs you want to add, or existing songs you want to play on.  Please check back every so often to see the updated set list.
+* Michael, Larry, Jeremy, Kevin
+* Tangled Up in Blue, Terrapin, Friend of the Devil, Eyes, Althea
 
+Act Three: Old Speedway Boogie
 
+* Larry, Jeremy, Boogie, Kevin, Doug
+* Think of What You've Done, Panama Red, Positively 4th Street, Scarlet Begonias, I Scare Myself
+
+Act Four: The Stallinators
+
+* (Anyone and everyone)
+* Jack Straw, Mississippi Half Step, Cassidy, Let's Impeach the President, Bird Song, The Weight, Uncle John's Band, Waste
 
 
