@@ -14,24 +14,24 @@ See the [Invitation](https://goo.gl/qjs29A) for details. You can bring friends! 
 
 Based on your song requests, here's a proposal for a semi-organized jam session. The plan is three sets with different mixtures of musicians, followed by an open jam session where anyone plays whatever they want.  But the goal is fun, so feel free add, subtract, and totally disregard the following if you like.
  
-Act One: Philip and Friends
+Set One: Philip and Friends
 
 * Larry, Philip, Michael, Doug
-* Midnight Moonlight, Bertha, Everyday People, Don't Let Go, Sugaree
+* Midnight Moonlight, Bertha, Everyday People, Don't Let Go, Sugaree, and/or others.
 
-Act Two: Hardly Strictly Jeremy
+Set Two: Hardly Strictly Jeremy
 
 * Michael, Larry, Jeremy, Kevin
-* Tangled Up in Blue, Terrapin, Friend of the Devil, Eyes, Althea
+* Tangled Up in Blue, Terrapin, Friend of the Devil, Eyes, Althea, and/or others.
 
-Act Three: Old Speedway Boogie
+Set Three: Old Speedway Boogie
 
 * Larry, Jeremy, Boogie, Kevin, Doug
-* Think of What You've Done, Panama Red, Positively 4th Street, Scarlet Begonias, I Scare Myself
+* Think of What You've Done, Panama Red, Positively 4th Street, Scarlet Begonias, I Scare Myself, and/or others.
 
-Act Four: The Stallinators
+Set Four: The Stallinators
 
 * (Anyone and everyone)
-* Jack Straw, Mississippi Half Step, Cassidy, Let's Impeach the President, Bird Song, The Weight, Uncle John's Band, Waste
+* Jack Straw, Mississippi Half Step, Cassidy, Let's Impeach the President, Bird Song, The Weight, Uncle John's Band, Waste, and/or others.
 
 
