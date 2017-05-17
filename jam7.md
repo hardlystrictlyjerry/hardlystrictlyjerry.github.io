@@ -4,23 +4,42 @@ permalink: /apr2017
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">April 2017</h1>
 
-Agenda for the April 2017 Hardly Strictly Jerry Jam:
+Many thanks to Philip and Joanne for hosting the April Jam! 
+ 
+Songs: The Wheel, Eyes, GDTRFB, Bird Song, Dark Star->Wharf Rat->Dark Star, Throwing Stones, Iko Iko, Scarlet/Fire, Terrapin Station, Ripple, Bertha.
 
-  * Host: Philip Johnson
-  * Address: [548 Kaimake Loop, Kailua HI, 96734](http://maps.google.com/?q=548%20Kaimake%20Loop,%20Kailua HI,%2096734)
-  * Contact: [808-387-6663](tel:808-387-6663), [johnson@hawaii.edu](mailto:johnson@hawaii.edu)
-  * Date: Saturday, April 1, 2017
-  * Time: Setup after 5:30pm. Music: 6:00-8:00pm with food break.
-  * Food: We'll provide (vegetarian) chili, rice, and corn bread. Please bring pupu to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: Bertha, Eyes, Birdsong, Scarlet/Fire, Wharf Rat, Dark Star, Wheel, Throwing Stones, Iko Iko, Ripple
-  * Equipment: 
-    * "Soft electric". 
-    * No drumkits, please (hand drums preferred). 
-    * Acoustic or electric guitars and other instruments are welcomed.
-    * Small PA will be provided. 
-    * Please bring own amp if possible. 
+## Audio Vignettes
 
-Please RSVP so we have a (Dead) head count.
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. The following is just a sample of a sample of the songs.
+
+### The Wheel
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323123312&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### GDTRFB
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323123642&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Eyes of the World
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323124050&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Bird Song
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323124212&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Dark Star
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323124361&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Wharf Rat
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323124477&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Throwing Stones
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323125036&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+
 
 
