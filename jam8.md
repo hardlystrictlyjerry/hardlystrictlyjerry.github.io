@@ -3,7 +3,7 @@ layout: page
 permalink: /jul2017
 ---
 
-<h1><img class="ui avatar image" src="/images/july4.jpg">Wave That Flag 2017</h1>
+<h1><img class="ui avatar image" src="/images/july4.jpg">Wave That Flag</h1>
 
 Kevin and Heidi invite us to their 4th of July pool party and jam session!  He just bought a 10' inflatable pool for kids (of all ages) along with water pistols, balloons, and other instruments of mayhem.  A keg of Sierra Nevada and open grill will get the potluck going.
 
