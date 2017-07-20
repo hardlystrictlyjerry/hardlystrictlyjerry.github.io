@@ -14,12 +14,14 @@ Agenda for the August 2017 Hardly Strictly Jerry Jam:
   * Time: Setup after 5:30pm. First set: 6:30-9:00pm with food break.
   * Food: Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: Dire Wolf (in G, Reckoning Version), Row Jimmy, One More Saturday Night, Ship of Fools (in G), Tennessee Jed, Morning Dew, Black Muddy River, West LA Fadeaway, Deep Elem Blues, Estimated Prophet. 
+  * Startup Setlist: Dire Wolf (in G, Reckoning Version), Row Jimmy, Cassidy, Ship of Fools (in G), Tennessee Jed, Morning Dew, Black Muddy River, West LA Fadeaway, Bird Song, Estimated Prophet, Scarlet/Fire. 
   * Equipment: 
     * "Soft electric". 
     * No drumkits, please (hand drums preferred). 
     * Acoustic or electric guitars and other instruments are welcomed.
     * Small PA will be provided. 
     * Please bring own amp if possible. 
+    
+**Special note: There is a hot tub!  Bring bathing suit and towel if you want to soak!**
 
-Please RSVP via email or text if you can come to the jam.
+Please RSVP to Michael via email or text if you can come to the jam.
