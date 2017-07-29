@@ -37,6 +37,9 @@ Here is the proposed initial membership of FoHSJ; if you have others to add, ple
     <tr><td>Jennifer Wright</td><td>Friend of Philip and Joanne, she came to the last jam hosted by Philip.</td></tr>
     <tr><td>Tomoko Hotema</td><td>Friend of Philip and Joanne, has been a Deadhead since high school in Ojai, CA. Had a cassette tape collection.</td></tr>
     <tr><td>Kiki Chun</td><td>Friend of Kevin and Heidi, she was the one I quoted above.</td></tr>
+    <tr><td>John Stallings</td><td>Everyone knows John, right?</td></tr>
+    <tr><td>Michael's parents</td><td>Michael's parents</td></tr>
+    <tr><td>Wade and Lynn Panagakos</td><td>Long time heads and friends of Kevin.</td></tr>
   </tbody>
 </table>
 
