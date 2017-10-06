@@ -29,8 +29,8 @@ Please RSVP via email or text if you can come to the jam.
 Agenda for the August 2016 Hardly Strictly Jerry Jam:
 
   * Host: Philip Johnson
-  * Address: 548 Kaimake Loop, Kailua HI, 96734
-  * Contact: 808-387-6663, johnson@hawaii.edu
+  * Address: [548 Kaimake Loop, Kailua HI, 96734](http://maps.google.com/?q=548%20Kaimake%20Loop,%20Kailua HI,%2096734)
+  * Contact: [808-387-6663](tel:808-387-6663), [johnson@hawaii.edu](mailto:johnson@hawaii.edu)
   * Date: Sunday, August 28
   * Time: Setup after 5:00pm. First set: 5:30-6:30. Chili: 6:30-7:00. Second set: 7:00-8:30.
   * Food: We'll provide chili, rice, and corn bread. Please bring pupu to share. 
