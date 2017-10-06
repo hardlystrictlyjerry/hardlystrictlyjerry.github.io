@@ -13,7 +13,7 @@ Agenda for the October 2017 Hardly Strictly Jerry Jam:
   * Time: Meet at 6pm, Music 6:30 to 9:00pm.
   * Food: Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: China/Rider, Cold Rain and Snow, Deal, He's Gone, Jack Straw, Loser, Women are smarter, Mission in the Rain, Mississippi Half-Step, Positively 4th Street, Ramble on Rose. 
+  * Startup Setlist: China/Rider, Cold Rain and Snow, Deal, He's Gone, Jack Straw, Loser, New Speedway Boogie, Women are smarter, Mission in the Rain, Mississippi Half-Step, Positively 4th Street, Ramble on Rose. 
   
 Notes:
 
