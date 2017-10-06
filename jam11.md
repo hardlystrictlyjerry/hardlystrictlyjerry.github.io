@@ -11,9 +11,9 @@ Agenda for the October 2017 Hardly Strictly Jerry Jam:
   * Contact: [808-387-6663](tel:808-387-6663), [johnson@hawaii.edu](mailto:johnson@hawaii.edu)
   * Date: Saturday, October 21
   * Time: Meet at 6pm, Music 6:30 to 9:00pm.
-  * Food: Please bring pupu to share. 
+  * Food: Please bring pupu and drinks to share. 
   * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: China/Rider, Cold Rain and Snow, Deal, He's Gone, Jack Straw, Loser, New Speedway Boogie, Women are smarter, Mission in the Rain, Mississippi Half-Step, Positively 4th Street, Ramble on Rose. 
+  * Startup Setlist: Cassidy, China/Rider, Deal, He's Gone, Jack Straw, Loser, New Speedway Boogie, Women are smarter, Mission in the Rain, Mississippi Half-Step, Ramble on Rose, West LA Fadeaway. 
   
 Notes:
 
