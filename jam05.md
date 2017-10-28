@@ -6,7 +6,7 @@ permalink: /jan2017
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">January 2017</h1>
 
-<img class="ui centered fluid image" src="/images/jan2017.jpg">
+<img class="ui centered fluid image" src="/images/hsj-jan-2017.jpg">
 
 Many thanks to Jeremy and Molly for hosting the Hardly Strictly Jeremy's Birthday Jam!  Lots of good food, music, and company was had by all!
  

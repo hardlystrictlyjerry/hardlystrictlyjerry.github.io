@@ -5,7 +5,7 @@ permalink: /hss2017
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Hardly Strictly Stallings</h1>
 
-<img class="ui centered fluid image" src="/images/hss2017.png">
+<img class="ui centered fluid image" src="/images/hss-feb-2017.png">
 
 John Stallings invites the HSJ krewe to participate in a BBQ and jam session on Saturday, February 4, 2017.
  

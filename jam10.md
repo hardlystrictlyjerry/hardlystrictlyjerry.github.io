@@ -5,7 +5,7 @@ permalink: /sept2017
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">HSJ Unplugged</h1>
 
-<img class="ui centered fluid image" src="/images/sept2017.jpg">
+<img class="ui centered fluid image" src="/images/hsj-sep-2017.jpg">
 
 Many thanks to Thomas Cummings for hosting the September Hardly Strictly Jerry jam.  And welcome to Kevin Richards, who contributed very tasty mandolin licks and (if the rest of us have any say) will be back for future jams.
 

@@ -4,21 +4,38 @@ permalink: /oct2017
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">October 2017</h1>
 
-Agenda for the October 2017 Hardly Strictly Jerry Jam:
+<img class="ui centered fluid image" src="/images/hsj-oct-2017.jpg">
 
-  * Host: Philip Johnson
-  * Address: [548 Kaimake Loop, Kailua HI, 96734](http://maps.google.com/?q=548%20Kaimake%20Loop,%20Kailua HI,%2096734)
-  * Contact: [808-387-6663](tel:808-387-6663), [johnson@hawaii.edu](mailto:johnson@hawaii.edu)
-  * Date: Saturday, October 21
-  * Time: Meet at 6pm, Music 6:30 to 9:00pm.
-  * Food: Please bring pupu and drinks to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Startup Setlist: Cassidy, China/Rider, Deal, He's Gone, Jack Straw, Loser, New Speedway Boogie, Women are smarter, Mission in the Rain, Mississippi Half-Step, Ramble on Rose, West LA Fadeaway. 
-  
-Notes:
+Joanne and Philip hosted the October Hardly Strictly Jerry jam. For me, the theme of this jam was "missing": due to technical errors the entire first set is missing from the recording, and due to Kevin positioning his monitor directly behind his head, the second set recording is mostly missing his incredibly tasty keyboard licks.  On the other hand, I was not missing my Mesa-Boogie amp as the night included the successful maiden voyage of my new (1965 reissue) Fender Princeton Reverb.  Overall, the jam was great fun with lots of good food, dancing, and experimentation with remote-controlled backyard LED colored lights. 
 
- * Due to the relatively short notice for this jam, and the fact that I am out of town until just a few days before, the setlist stays away from double black diamond tunes.  To provide familiarity without burnout, the initial selections are tunes [we've played before](setlists.html) but no more than three times. (Except for Jack Straw, Joanne's favorite tune.) If you have suggestions, please feel free to make them!
+Setlist: Cassidy, China/Rider, Deal, He's Gone, Jack Straw, Loser, New Speedway Boogie, Women are smarter, Mission in the Rain, Mississippi Half-Step, Ramble on Rose, West LA Fadeaway. 
 
- * Kevin R: we will have the Nord keyboard ready for you!  Please feel free to bring your electric guitar, mando, and amp as well if you like.
- 
- *  We are continuing our exploration of "No PA jamming" this month, even though this is an electric jam. So, please bring your amp. Kevin H. and I are trying to figure out how to use small acoustic amps for vocal amplification so Kevin doesn't have to schlep the full PA.
+## Audio Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+### China Cat Sunflower
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039048&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### I know you rider
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039206&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### West LA Fadeaway
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039386&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Mississippi Half Step
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039539&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### New Speedway Boogie
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039669&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Man Smart (Woman Smarter)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349039901&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+
