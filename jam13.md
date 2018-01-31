@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /lovejam
+permalink: /lovefest
 ---
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Love Jam</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Love Fest</h1>
 
 <img class="ui medium right floated image" src="/images/love-jam.jpg">
 
