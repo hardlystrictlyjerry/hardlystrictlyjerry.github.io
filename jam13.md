@@ -13,7 +13,7 @@ Rehearsal:
   * Michael and Andrea Shapiro's house. 
   * [1036 Lunaai Place, Kailua HI, 96734](http://maps.google.com/?q=1036%20Lunaai%20Place,%20Kailua HI,%2096734).
   * [808-225-0982](tel:808-225-0982), [michael@hanahou.com](mailto:michael@hanahou.com) 
-  * Time: either 3-6pm or 6-9pm. Please indicate your preferences/constraints so we can decide.  
+  * Time: 3pm-6pm.  
   
 Gig:
   * Saturday, February 17
