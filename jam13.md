@@ -23,4 +23,5 @@ Gig:
 Setlist and Jam Notes:
   * There were many divergent opinions on the setlist.  The following Jam Notes link presents a proposed compromise between novelty, familiarity, non-repeatability, and danceability. See what you think.
   * [https://goo.gl/4KR9JN](https://goo.gl/4KR9JN)  
+  * Kevin made a [PDF of the setlist charts](resources/lovefest-setlist.pdf)
 
