@@ -4,24 +4,45 @@ permalink: /jan2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">January 2018</h1>
 
-Agenda for the January 2018 Hardly Strictly Jerry Jam:
+<img class="ui centered fluid image" src="/images/hsj-jan-2018.jpg">
 
-  * Host: Kevin Holder
-  * Address: [359 Wanaao Road, Kailua HI, 96734](http://maps.google.com/?q=359%20Wanaao%20Road,%20Kailua HI,%2096734)
-  * Contact: [808-366-2216](tel:808-366-2216), [kevin@solpowerhawaii.com](mailto:kevin@solpowerhawaii.com)
-  * Date: Saturday, January 27, 2018
-  * Time: Setup after 6:00pm. Start between 6:30-7:00pm. Kiki and friends will play a couple of tunes starting at 6pm. 
-  * Food: Please bring pupu to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Proposed Setlist: Crazy Fingers, Lazy Lightning, Throwing Stones, He's Gone, Shakedown Street, When I paint my masterpiece, Like a Road, St Stephen/NFA, One More Saturday Night, Shady Grove, Brokedown Palace. 
-  * Equipment: 
-    * "Soft electric". 
-    * No drumkits, please (hand drums preferred). 
-    * Acoustic or electric guitars and other instruments are welcomed.
-    * Kevin will provide his PA. 
-    * Please bring own amp if possible. 
+Thanks to Kevin Holder and Heidi Hopkins for hosting an epic party and jam session!  The kombucha was flowing, the lights were twinkling, the BBQ (among other things) was smoking, and the envelope filters were *definitely* filtering.
 
-Please RSVP to Kevin via email or text if you can come to the jam.
+Set List: Fire on the Mountain, Valerie, Shakedown Street, Crazy Fingers, Bertha, Throwing Stones, He's Gone, Saint Stephen>NFA>Saint Stephen, Like a Road, One More Saturday Night, Brokedown Palace.
 
-This month, we are experimenting with "Jam Notes", a collaboratively edited Google Doc where we can link to one or more "reference versions" of the songs, as well as sort out who is going to play what and when. The goal is to increase the fun of the jam by helping everyone get on the same page (or at least, same chapter) prior the jam.  Please go to [https://goo.gl/vHCRNy](https://goo.gl/vHCRNy) for the jam notes.  
+## Audio Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+### Fire On The Mountain
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409074273&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Valerie
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409074915&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Shakedown Street
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409075398&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### He's Gone
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409075785&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### St. Stephen
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409076124&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Like A Road
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409077399&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### One More Saturday Night
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409077792&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Brokedown Palace
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409078548&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
