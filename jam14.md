@@ -10,7 +10,7 @@ Proposed Agenda for the March 2018 Hardly Strictly Jerry Jam:
   * Address: [59-080 Kamehameha Hwy. #A2 Haleiwa,Hi 96712](https://www.google.com/maps/place/59-80+Kamehameha+Hwy,+Haleiwa,+HI+96712)
   * Contact: [(808) 754-8055‬](tel:808-754-8055‬), [dubkonscious@yahoo.com](mailto:dubkonscious@yahoo.com)
   * Date: Saturday March 31. 
-  * Time: 5pm-9pm. (Start a bit early in case folks want to start the long drive back early)
+  * Time: Arrive at 5pm. First song 5:30pm. (Start a bit early in case folks want to start the long drive back early)
   * Food: Pupu to share
   * Guests: Friends and family welcome
   * Setlist:  See the [Jam Notes](https://goo.gl/VBa4Q7) for songs and vocal/lead assignments. 
