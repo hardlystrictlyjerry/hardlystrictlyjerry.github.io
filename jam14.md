@@ -4,7 +4,7 @@ permalink: /mar2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">HSJ goes North Shore!</h1>
 
-Proposed Agenda for the March 2018 Hardly Strictly Jerry Jam:
+Agenda for the March 2018 Hardly Strictly Jerry Jam:
 
   * Host: Kevin and Tricia Richards
   * Address: [59-080 Kamehameha Hwy. #A2 Haleiwa,Hi 96712](https://www.google.com/maps/place/59-80+Kamehameha+Hwy,+Haleiwa,+HI+96712)
