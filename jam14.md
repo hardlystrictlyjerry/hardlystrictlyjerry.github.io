@@ -4,7 +4,7 @@ permalink: /mar2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">HSJ went North Shore!</h1>
 
-Many thanks to Kevin and Tricia Richards for hosting the March Hardly Strictly Jerry jam!  For once, Kevin did not have to make the long commute from the country, because the rest of us came up to see him.  The food was particularly awesome: Kevin's Mom made amazing enchiladas and flautas, and pumpkin pie cheesecake rounded things out nicely.
+Many thanks to Kevin and Tricia Richards for hosting the March Hardly Strictly Jerry jam.  For once, Kevin did not have to make the long commute from the country, because the rest of us came up to see him.  The food was particularly awesome: Kevin's Mom made amazing enchiladas and flautas, and pumpkin pie cheesecake rounded things out nicely.
 
 Musically, we continue to improve our capability to play at ever higher decibel levels. This month featured not one but two Fender Twin Reverb amps. In my humble opinion, this jam features not just the loudest Justin, but the best sounding Justin in the history of Hardly Strictly Jerry. 
 
