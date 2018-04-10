@@ -144,4 +144,17 @@ Notes:
  * Kevin R: we will have the Nord keyboard ready for you!  Please feel free to bring your electric guitar, mando, and amp as well if you like.
  
  *  We are continuing our exploration of "No PA jamming" this month, even though this is an electric jam. So, please bring your amp. Kevin H. and I are trying to figure out how to use small acoustic amps for vocal amplification so Kevin doesn't have to schlep the full PA.
+ 
+ Agenda for the March 2018 Hardly Strictly Jerry Jam:
+ 
+   * Host: Kevin and Tricia Richards
+   * Address: [59-080 Kamehameha Hwy. #A2 Haleiwa,Hi 96712](https://www.google.com/maps/place/59-80+Kamehameha+Hwy,+Haleiwa,+HI+96712)
+   * Contact: [(808) 754-8055‬](tel:808-754-8055‬), [dubkonscious@yahoo.com](mailto:dubkonscious@yahoo.com)
+   * Date: Saturday March 31. 
+   * Time: Arrive at 5pm. First song 5:30pm. (Start a bit early in case folks want to start the long drive back early)
+   * Food: Pupu to share
+   * Guests: Friends and family welcome
+   * Setlist:  See the [Jam Notes](https://goo.gl/VBa4Q7) for songs and vocal/lead assignments. 
+   * Equipment: Kevin can contribute: 14 channel Mackie mixer, a 72' Fender Twin (no reverb), 2 small powered Pa speakers, 1 mic stand & sm58, Roland Vdrums, Remo djembe, and a 1000w Carvin Bass amp
+  
 --->
