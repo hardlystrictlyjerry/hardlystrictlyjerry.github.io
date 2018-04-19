@@ -2,6 +2,7 @@
 layout: page
 permalink: /jun2018
 ---
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">June 2018</h1>
 
 Agenda for the June 2018 Hardly Strictly Jerry Jam:
  
