@@ -4,6 +4,9 @@ permalink: /jun2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">June 2018</h1>
 
+<img class="ui centered fluid image" src="/images/hsj-jun-2018.jpg">
+
+
 Thanks to Paul for hosting the June HSJ jam at his Chinatown studio.  A great time was had by all!  Unfortunately, due to 
  operator error, we have no recording for this month.  
  
