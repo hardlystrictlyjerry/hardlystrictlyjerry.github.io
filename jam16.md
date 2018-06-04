@@ -4,7 +4,25 @@ permalink: /candis2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Candis June Party</h1>
 
-# Setlist selection
+# Setlist
+
+Cold Rain & Snow [D] Philip
+Tennessee Jed [C] Michael
+They Love Each Other [G] Philip
+Candyman [C] Justin
+Hey Pocky Way [D] Philip
+LAALWFH [C] Justin
+
+Shakedown [Dm] Philip/Justin?
+Cats Under The Stars [C] Justin
+Scarlet > [E] Justin
+Fire [B] Justin
+Terrapin > [G] Philip & Michael
+The Wheel > [C] Philip
+China > [G] Justin
+Rider [D] Justin
+
+One More Sat Night [C] Justin
 
 Here's a list of the setlists from the last two jams plus this upcoming Saturday. I feel a top priority is for everyone to be able to get one or two of their favorites into the setlist. So, please come prepared to indicate a couple of songs you'd like us to play. That should generate around a dozen "high priority" songs which we can augment with others to round out the gig. We can figure out the setlist order, who sings what, etc. later. Michael indicates that Candis likes Scarlet-Fire, so maybe that can be her two choices! 
 
