@@ -11,27 +11,27 @@ Details:
   * Time: Setup 5:00pm, play 6:00-8:00pm
   
 First Set:
-  * Cold Rain & Snow [D] Philip
-  * Tennessee Jed [C] Michael
-  * They Love Each Other [G] Philip
-  * Candyman [C] Justin
-  * Hey Pocky Way [D] Philip
-  * LAALWFH [C] Justin
+  * Cold Rain & Snow 
+  * Tennessee Jed 
+  * They Love Each Other
+  * Candyman 
+  * Hey Pocky Way
+  * LAALWFH
 
 Second Set:
 
-  * Shakedown [Dm] Philip/Justin?
-  * Cats Under The Stars [C] Justin
-  * Scarlet > [E] Justin
-  * Fire [B] Justin
-  * Terrapin > [G] Philip & Michael
-  * The Wheel > [C] Philip
-  * China > [G] Justin
-  * Rider [D] Justin
+  * Shakedown 
+  * Cats Under The Stars
+  * Scarlet > 
+  * Fire 
+  * Terrapin > 
+  * The Wheel > 
+  * China > 
+  * Rider 
 
 Encore:
 
-  * One More Sat Night [C] Justin
+  * One More Sat Night 
 
 
 Jam Notes:
