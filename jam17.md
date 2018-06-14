@@ -16,10 +16,11 @@ Agenda for the July 2018 Hardly Strictly Jerry Jam:
   * Alphabetic Setlist: After Midnight, Around and Around, Brown Eyed Women, Cassidy, Jack Straw, New Speedway Boogie, Row Jimmy, Stella Blue, Throwing Stones, Truckin, US Blues, Women are Smarter
   * Equipment: 
     * There will be a drumkit! 
-    * Acoustic instruments might not be heard over the electric cacophony.
+    * Bring your amp, the larger, the better.
+    * Acoustic instruments will be drowned out.
     * PA will be cobbled together.
-    * Definitely bring an amp, the larger, the better.
-  * Notes: See the [Jam Notes](http://bit.ly/2Hh6p8k) for songs and vocal/lead proposals. 
+
+Notes: See the [Jam Notes](http://bit.ly/2LSBr4f) for songs and vocal/lead proposals. 
 
 Hardly Strictly Jerry turns two years old this month.  We're toddlers!  And entering our terrible twos!
 
