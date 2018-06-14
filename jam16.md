@@ -1,39 +1,17 @@
 ---
 layout: page
-permalink: /candis2018
+permalink: /jun2018-2
 ---
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Candis Party</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">June 2018 (2)</h1>
 
-Details:
+<img class="ui centered fluid image" src="/images/hsj-jun-2018-2.jpg">
 
-  * What: Candis Konane Burton's Party
-  * Where: Lanikai
-  * Time: Setup 5:00pm, play 6:00-8:00pm
+The HSJ Posse quickly regrouped one week after our Chinatown Studio Jam session for an impromptu gig at Candis Burton's for her birthday.  It was a great party in a great location with great people.  We had a blast. 
   
-First Set:
-  * Cold Rain & Snow 
-  * Tennessee Jed 
-  * They Love Each Other
-  * Candyman 
-  * Hey Pocky Way
-  * LAALWFH
+Set 1: Cold Rain & Snow, Tennessee Jed, They Love Each Other, Candyman, Hey Pocky Way, Lonesome and a long way from home
 
-Second Set:
+Set 2: Shakedown, Cats Under The Stars, Scarlet > Fire, Terrapin > The Wheel > China > Rider 
 
-  * Shakedown 
-  * Cats Under The Stars
-  * Scarlet > 
-  * Fire 
-  * Terrapin > 
-  * The Wheel > 
-  * China > 
-  * Rider 
+E: One More Sat Night 
 
-Encore:
-
-  * One More Sat Night 
-
-
-Jam Notes:
-
-  * Available at [http://bit.ly/2xGyCBb](http://bit.ly/2xGyCBb).
+Jam Notes available at [http://bit.ly/2xGyCBb](http://bit.ly/2xGyCBb).
