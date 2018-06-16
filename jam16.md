@@ -4,7 +4,7 @@ permalink: /jun2018-2
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">June 2018 (2)</h1>
 
-<img class="ui centered fluid image" src="/images/hsj-jun-2018-2.jpg">
+<img class="ui centered fluid image" src="/images/hsj-jun-2018-2a.jpg">
 
 The HSJ Posse quickly regrouped one week after our Chinatown Studio Jam session for an impromptu gig at Candis Burton's for her birthday.  It was a great party in a great location with great people.  We had a blast. 
   
