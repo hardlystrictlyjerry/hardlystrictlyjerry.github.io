@@ -2,7 +2,7 @@
 layout: page
 permalink: /jul2018
 ---
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">July 2018</h1>
+<h1><img class="ui avatar image" src="/images/july4.jpg">July 2018</h1>
 
 Agenda for the July 2018 Hardly Strictly Jerry Jam:
 
@@ -18,10 +18,7 @@ Agenda for the July 2018 Hardly Strictly Jerry Jam:
      2. US Blues, After Midnight, Throwing Stones > NFA > Women are Smarter, Around and Around
      3. Stella Blue 
   * Equipment: 
-    * There will be a drumkit! 
-    * Bring your amp, the larger, the better.
-    * Acoustic instruments will be drowned out.
-    * PA will be cobbled together.
+    * We're back to two acoustic drummers!
 
 Notes: See the [Jam Notes](http://bit.ly/2LSBr4f) for songs and vocal/lead proposals. 
 
