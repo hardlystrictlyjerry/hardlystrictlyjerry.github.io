@@ -14,7 +14,7 @@ Agenda for the July 2018 Hardly Strictly Jerry Jam:
   * Food: Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
   * Setlist: 
-     1. Truckin > Brown Eyed Women > Cassidy, Row Jimmy, New Speedway Boogie, Jack Straw
+     1. Truckin > Cassidy > Brown Eyed Women, Row Jimmy, Jack Straw, New Speedway Boogie
      2. US Blues, After Midnight, Throwing Stones > NFA > Women are Smarter, Around and Around
      3. Stella Blue 
   * Equipment: 
