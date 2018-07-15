@@ -18,3 +18,5 @@ Agenda for the One Month Birthday Party for Ophelia Sunshine
      2. Sugaree, Uncle John's Band, Eyes of the World, Sugar Magnolia
 
 Notes: See the [Jam Notes](http://bit.ly/2NN1H1Q) for songs and vocal/lead proposals. 
+
+<img class="ui centered fluid image" src="/images/ophelia.jpg">
