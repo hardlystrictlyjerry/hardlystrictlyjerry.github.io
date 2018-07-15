@@ -9,7 +9,7 @@ Agenda for the July 2018 Hardly Strictly Jerry Jam:
   * Host: Kevin Holder and Heidi Hopkins (setlist designer)
   * Address: [359 Wanaao Road, Kailua HI, 96734](http://maps.google.com/?q=359%20Wanaao%20Road,%20Kailua HI,%2096734)
   * Contact: [808-366-2216](tel:808-366-2216), [kevin@solpowerhawaii.com](mailto:kevin@solpowerhawaii.com)
-  * Date: Wednesday, July 4, 2017
+  * Date: Wednesday, July 4, 2018
   * Time: Setup after 4:30pm. Let's try to start by 5:30 so we can be done by 7:30 to go see the fireworks!
   * Food: Please bring pupu to share. 
   * Guests: Significant others, kids and friends welcome. 
