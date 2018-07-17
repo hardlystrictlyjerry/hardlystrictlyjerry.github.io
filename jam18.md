@@ -14,7 +14,7 @@ Agenda for the One Month Birthday Party for Ophelia Sunshine
   * Food: Vegan potluck
   * Guests: Family welcome
   * Setlist: 
-     1. Franklin's Tower, Tennessee Jed, Althea, Masterpiece, Peggy-O, Valerie, Let it Rock, Ramble on Rose
+     1. Franklin's Tower, Tennessee Jed, Peggy-O, Masterpiece, Valerie, Let it Rock, Althea, Ramble on Rose
      2. Sugaree, Uncle John's Band, Eyes of the World, Sugar Magnolia
 
 Notes: See the [Jam Notes](http://bit.ly/2NN1H1Q) for songs and vocal/lead proposals. 
