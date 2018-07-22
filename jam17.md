@@ -4,26 +4,27 @@ permalink: /jul2018
 ---
 <h1><img class="ui avatar image" src="/images/july4.jpg">July 2018</h1>
 
-Agenda for the July 2018 Hardly Strictly Jerry Jam:
+Many thanks to Kevin and Heidi for once again hosting the Most Epic July Fourth Party In Kailua. We were joined by a harmonica player and fire dancer on several tunes!
 
-  * Host: Kevin Holder and Heidi Hopkins (setlist designer)
-  * Address: [359 Wanaao Road, Kailua HI, 96734](http://maps.google.com/?q=359%20Wanaao%20Road,%20Kailua HI,%2096734)
-  * Contact: [808-366-2216](tel:808-366-2216), [kevin@solpowerhawaii.com](mailto:kevin@solpowerhawaii.com)
-  * Date: Wednesday, July 4, 2018
-  * Time: Setup after 4:30pm. Let's try to start by 5:30 so we can be done by 7:30 to go see the fireworks!
-  * Food: Please bring pupu to share. 
-  * Guests: Significant others, kids and friends welcome. 
-  * Setlist: 
-     1. Truckin > Cassidy > Brown Eyed Women, Row Jimmy, Jack Straw, New Speedway Boogie
-     2. US Blues, After Midnight, Throwing Stones > NFA > Women are Smarter, Around and Around
-     3. Stella Blue 
-  * Equipment: 
-    * We're back to two acoustic drummers!
+<img class="ui centered fluid image" src="/images/hsj-jul-2018-1.jpg">
+<img class="ui centered fluid image" src="/images/hsj-jul-2018-2.jpg">
+<img class="ui centered fluid image" src="/images/hsj-jul-2018-3.jpg">
+<img class="ui centered fluid image" src="/images/hsj-jul-2018-4.jpg">
 
-Notes: See the [Jam Notes](http://bit.ly/2LSBr4f) for songs and vocal/lead proposals. 
+Set 1: Friend of the Devil, Truckin > Cassidy > Brown Eyed Women, Row Jimmy, Jack Straw, New Speedway Boogie
 
-Kevin kindly provides the [setlist charts in order as pdf](/resources/2018-07-04-setlist.pdf).
+Set 2: US Blues, After Midnight, Throwing Stones > NFA > Women are Smarter, Around and Around
 
-Hardly Strictly Jerry turns two years old this month.  We're toddlers!  And entering our terrible twos!
+E: Stella Blue 
 
-Please RSVP via email or text if you can come to the jam.
+## Audio Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings.  Due to time constraints, just two excerpts from the first and last tunes.
+
+### Friend of the Devil
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474942957&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Stella Blue
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474943320&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

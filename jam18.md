@@ -6,7 +6,7 @@ permalink: /ophelia
 
 Agenda for the One Month Birthday Party for Ophelia Sunshine
  
-  * Host: Kiki and Tim Chung
+  * Host: Kiki Chung and Tim Clark
   * Address: [106 North Kainalu Drive, Kailua HI, 96734](https://www.google.com/maps/place/106+N+Kainalu+Dr,+Kailua,+HI+96734/)
   * Contact: [808-260-8208](tel:808-260-8208), [kikipuchung@gmail.com](mailto:kikipuchung@gmail.com)
   * Date: Sunday, July 29, 2018
