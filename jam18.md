@@ -17,6 +17,9 @@ Agenda for the One Month Birthday Party for Ophelia Sunshine
      1. Franklin's Tower, Tennessee Jed, Peggy-O, Masterpiece, Valerie, Let it Rock, Althea, Ramble on Rose
      2. Sugaree, Uncle John's Band, Eyes of the World, Sugar Magnolia
 
-Notes: See the [Jam Notes](http://bit.ly/2NN1H1Q) for songs and vocal/lead proposals. 
+Notes: 
+
+  * See the [Jam Notes](http://bit.ly/2NN1H1Q) for songs and vocal/lead proposals.
+  * Here is a [Setlist PDF](/resources/2018-07-29-setlist.pdf) containing all the tunes (thanks, Michael!)   
 
 <img class="ui centered fluid image" src="/images/ophelia.jpg">
