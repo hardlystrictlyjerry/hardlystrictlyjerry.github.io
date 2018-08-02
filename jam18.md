@@ -1,25 +1,31 @@
 ---
 layout: page
-permalink: /ophelia
+permalink: /ophelia2018
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Ophelia Sunshine</h1>
 
-Agenda for the One Month Birthday Party for Ophelia Sunshine
- 
-  * Host: Kiki Chung and Tim Clark
-  * Address: [106 North Kainalu Drive, Kailua HI, 96734](https://www.google.com/maps/place/106+N+Kainalu+Dr,+Kailua,+HI+96734/)
-  * Contact: [808-260-8208](tel:808-260-8208), [kikipuchung@gmail.com](mailto:kikipuchung@gmail.com)
-  * Date: Sunday, July 29, 2018
-  * Time: 2:30 - 4:00pm 
-  * Food: Vegan potluck
-  * Guests: Family welcome
-  * Setlist: 
-     1. Franklin's Tower, Tennessee Jed, Peggy-O, Masterpiece, Valerie, Let it Rock, Althea, Ramble on Rose
-     2. Sugaree, Uncle John's Band, Eyes of the World, Sugar Magnolia
+Many thanks to Kiki Chung and Tim Clark and their new addition Ophelia Sunshine for letting us play at Ophelia's One Month Party! 
 
-Notes: 
+<img class="ui centered fluid image" src="/images/hsj-ophelia-2018-1.jpg">
+<img class="ui centered fluid image" src="/images/hsj-ophelia-2018-2.jpg">
 
-  * See the [Jam Notes](http://bit.ly/2NN1H1Q) for songs and vocal/lead proposals.
-  * Here is a [Setlist PDF](/resources/2018-07-29-setlist.pdf) containing all the tunes (thanks, Michael!)   
+## Audio Vignettes
 
-<img class="ui centered fluid image" src="/images/ophelia.jpg">
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+### Valerie
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479942097&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Let it rock
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479942754&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Sugaree
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479942997&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Sugar Magnolia
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479943231&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
