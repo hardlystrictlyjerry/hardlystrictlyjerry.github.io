@@ -9,6 +9,11 @@ Many thanks to Kiki Chung and Tim Clark and their new addition Ophelia Sunshine 
 <img class="ui centered fluid image" src="/images/hsj-ophelia-2018-1.jpg">
 <img class="ui centered fluid image" src="/images/hsj-ophelia-2018-2.jpg">
 
+Setlist:
+
+  * Franklin's Tower, Tennessee Jed, Peggy-O, When I paint my masterpiece, Valerie, Let it rock, Althea, Ramble on Rose
+  * Sugaree, Uncle John's Band, Eyes of the World, Sugar Magnolia
+
 ## Audio Vignettes
 
 Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
