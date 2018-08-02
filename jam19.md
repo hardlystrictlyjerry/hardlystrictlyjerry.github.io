@@ -12,12 +12,9 @@ Agenda:
    * Time: Arrive 6:00-6:30pm. First song 7:00pm.
    * Food: No potluck, 2 small fridges available
    * Guests: No guests!  Paul's studio is barely big enough to fit the musicians!  
-   * Notes: See the [Jam Notes](http://bit.ly/2Hh6p8k) for songs and vocal/lead proposals. 
+   * Setlist: See the [Jam Notes](http://bit.ly/2vdGfLY) for songs and vocal/lead proposals. 
    * Equipment: PA, drums, bass amp, guitar amp on site. Singers: please bring mic, stand, cable.
    
-Setlist:
-
-  * For the setlist, see the globally editable Jam Notes at: [http://bit.ly/2vdGfLY](http://bit.ly/2vdGfLY)
 
 <h2>Directions to Paul's Studio</h2>
 
