@@ -7,19 +7,37 @@ permalink: /sep2018
 <img class="ui centered fluid image" src="/invites/sep-2018.png">
 
 
-Agenda for the September 2018 Hardly Strictly Jerry Jam:
+Joanne and Philip hosted the September 2018 Hardly Strictly Jerry Jam. Rachael brought the spiked watermelon, Michael brought the vintage Mutron, and everyone brought good vibes and dancing shoes! 
 
-  * Host: Philip Johnson and Joanne Amberg
-  * Address: [548 Kaimake Loop, Kailua HI, 96734](http://maps.google.com/?q=548%20Kaimake%20Loop,%20Kailua HI,%2096734)
-  * Contact: [808-387-6663](tel:808-387-6663), [johnson@hawaii.edu](mailto:johnson@hawaii.edu)
-  * Date: Saturday, September 29, 2018
-  * Time: Meet around 5:00-5:30pm, Music starts after 6pm
-  * Food: Potluck, BYOB
-  * Guests: Significant others, kids and friends welcome. 
-  * Percussion: for neighborhood relationship management and other reasons (such as Kevin R's eardrums), we request djembe and congos rather than full drum kit. Hopefully Dan and/or Chris will help Paul out! 
-  * Setlist and Notes: [http://bit.ly/2N8M0o5](http://bit.ly/2N8M0o5)
+<img class="ui centered fluid image" src="/images/hsj-sep-2018.jpg">
 
-Here's a direct link to the invite png for circulation to friends and family: [http://bit.ly/2C7xgBW](http://bit.ly/2C7xgBW)
-  
-  
+
+Songs: Bertha (soundcheck), Bird Song, The Wheel, Alabama Getaway, Dire Wolf, How Sweet It Is, Midnight Moonlight, Dear Prudence, After Midnight, Let it Rock, Get out of my life woman, Throwing Stones, GDTRFB, Scarlet/Fire.
+
+## Audio and Video Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+
+### After Midnight
+
+<div class="ui embed" data-source="youtube" data-id="c55qoZdB898"></div>
+
+### Get Out of My Life Woman
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508015008&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### How Sweet It Is
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508015452&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Scarlet Begonias
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508014444&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Alabama Getaway
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508016232&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
   
