@@ -15,6 +15,6 @@ Agenda:
    * Time: Party starts 4:30pm, first set: 5:00-5:30.
    * Food: Potluck, BYOB
    * Guests: Friends and family welcome with RSVP
-   * Setlist: (coming soon)
+   * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
    * Equipment: As usual
    
