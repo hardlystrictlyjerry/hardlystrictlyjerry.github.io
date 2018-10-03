@@ -12,7 +12,7 @@ Agenda:
    * Address: [627 Kaha St, Kailua HI, 96734](http://maps.google.com/?q=627%20Kaha%20St,%20Kailua HI,%2096734)
    * Contact: [808-628-8666](tel:808-628-8666), [carliewiener@gmail.com](mailto:carliewiener@gmail.com)
    * Date: Saturday October 27. 
-   * Time: Party starts 4:30pm, first set: 5:00-5:30.
+   * Time: Party starts 4:30pm, first set: 5:30-6:30, second set: 7:00-8:00
    * Food: Potluck, BYOB
    * Guests: Friends and family welcome with RSVP
    * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
