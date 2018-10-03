@@ -6,7 +6,6 @@ permalink: /sep2018
 
 <img class="ui centered fluid image" src="/invites/sep-2018.png">
 
-
 Joanne and Philip hosted the September 2018 Hardly Strictly Jerry Jam. Rachael brought the spiked watermelon, Michael brought the vintage Mutron, and everyone brought good vibes and dancing shoes! 
 
 <img class="ui centered fluid image" src="/images/hsj-sep-2018.jpg">
