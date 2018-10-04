@@ -22,5 +22,5 @@ Tentative practice schedule:
 
    * Fri Oct 12, 6:30-??, Paul's Studio (no JM, KR, PJ)
    * Sat Oct 13, 6:30-??, Paul's Studio
-   * Wed Oct 24, 6:00-9:00pm, Carlie's (no JM, KR. PJ questionable)
+   * Wed Oct 24, 6:00-9:00pm, Carlie's (no JM, KR. PJ questionable. Paul available starting at 8pm)
    
