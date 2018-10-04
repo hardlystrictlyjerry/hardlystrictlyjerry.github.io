@@ -8,7 +8,7 @@ permalink: /oct2018
 
 
 Agenda:
-   * Host: Carli Weiner
+   * Host: Carlie Weiner
    * Address: [627 Kaha St, Kailua HI, 96734](http://maps.google.com/?q=627%20Kaha%20St,%20Kailua HI,%2096734)
    * Contact: [808-628-8666](tel:808-628-8666), [carliewiener@gmail.com](mailto:carliewiener@gmail.com)
    * Date: Saturday October 27. 
@@ -17,4 +17,10 @@ Agenda:
    * Guests: Friends and family welcome with RSVP
    * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
    * Equipment: As usual
+   
+Tentative practice schedule:
+
+   * Fri Oct 12, 6:30-9:00pm, Paul's Studio (no JM, KR, PJ)
+   * Sat Oct 13, 6:30-9:30pm, Paul's Studio
+   * Wed Oct 24, 6:00-9:00pm, Carlie's (no JM, KR)
    
