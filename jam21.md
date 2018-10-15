@@ -18,9 +18,9 @@ Agenda:
    * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
    * Equipment: As usual
    
-Tentative practice schedule:
+Schedule:
 
-   * Fri Oct 12, 6:30-??, Paul's Studio (no JM, KR, PJ)
-   * Sat Oct 13, 6:30-??, Paul's Studio
-   * Wed Oct 24, 6:00-9:00pm, Carlie's (no JM, KR. PJ questionable. Paul available starting at 8pm)
+   * Wed Oct 24, 5:30-9:00pm, Rehearsal at Kevin H's. 
+   * Fri Oct 26, 5:00-8:00pm, Prelim setup at Carlie's (tent, gear, lights)
+   * Sat Oct 27, 1:00pm Setup PA, 4:00pm Sound Check, 5:30pm First Set.
    
