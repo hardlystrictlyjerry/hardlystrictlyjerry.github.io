@@ -227,4 +227,25 @@ Agenda for the September 2018 Hardly Strictly Jerry Jam:
   * Setlist and Notes: [http://bit.ly/2N8M0o5](http://bit.ly/2N8M0o5)
 
 Here's a direct link to the invite png for circulation to friends and family: [http://bit.ly/2C7xgBW](http://bit.ly/2C7xgBW)
+
+<img class="ui centered fluid image" src="/invites/oct-2018.jpg">
+
+
+Agenda:
+   * Host: Carlie Weiner and Phil Thompson
+   * Address: [627 Kaha St, Kailua HI, 96734](http://maps.google.com/?q=627%20Kaha%20St,%20Kailua HI,%2096734)
+   * Contact: [808-628-8666](tel:808-628-8666), [carliewiener@gmail.com](mailto:carliewiener@gmail.com)
+   * Date: Saturday October 27. 
+   * Time: Party starts 4:30pm, first set: 5:30-6:30, second set: 7:00-8:00
+   * Food: Potluck, BYOB
+   * Guests: Friends and family welcome with RSVP
+   * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
+   * Equipment: As usual
+   
+Schedule:
+
+   * Wed Oct 24, 5:30-9:00pm, Rehearsal at Kevin H's. 
+   * Fri Oct 26, 5:00-8:00pm, Prelim setup at Carlie's (tent, gear, lights)
+   * Sat Oct 27, 1:00pm Setup PA, 4:00pm Sound Check, 5:30pm First Set.
+
 --->

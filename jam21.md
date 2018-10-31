@@ -6,21 +6,40 @@ permalink: /oct2018
 
 <img class="ui centered fluid image" src="/invites/oct-2018.jpg">
 
+Many thanks to Carlie Weiner, Phil Thompson, and Baby Arlo for hosting the 2018 Halloween Edition of Hardly Strictly Jerry! Despite technical difficulties and precipitation, Kevin and Heidi managed to become engaged and the all of us managed to have a Real Good Time. 
 
-Agenda:
-   * Host: Carlie Weiner
-   * Address: [627 Kaha St, Kailua HI, 96734](http://maps.google.com/?q=627%20Kaha%20St,%20Kailua HI,%2096734)
-   * Contact: [808-628-8666](tel:808-628-8666), [carliewiener@gmail.com](mailto:carliewiener@gmail.com)
-   * Date: Saturday October 27. 
-   * Time: Party starts 4:30pm, first set: 5:30-6:30, second set: 7:00-8:00
-   * Food: Potluck, BYOB
-   * Guests: Friends and family welcome with RSVP
-   * Setlist and Jam Notes: [http://bit.ly/2yco363](http://bit.ly/2yco363)
-   * Equipment: As usual
-   
-Schedule:
+Quote of the night from the next door neighbor who was recovering from a heart attack a few days before: "No, it wasn't too loud. I love Werewolves of London".
 
-   * Wed Oct 24, 5:30-9:00pm, Rehearsal at Kevin H's. 
-   * Fri Oct 26, 5:00-8:00pm, Prelim setup at Carlie's (tent, gear, lights)
-   * Sat Oct 27, 1:00pm Setup PA, 4:00pm Sound Check, 5:30pm First Set.
-   
+Setlist: Samson and Delilah, The Mighty Quinn, Evangeline, Candyman, Mama Tried, Me and My Uncle, Iko Iko, Lonesome and a long way from home, Werewolves of London, Shakedown Street, Viola Lee Blues > Cumberland Blues > Viola Lee Blues, He's Gone, All along with Watchtower, Midnight Hour, And we bid you goodnight. 
+
+## A few pictures 
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-2.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-6.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-3.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-1.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-4.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-5.jpg">
+
+<img class="ui centered fluid image" src="/images/hsj-oct-2018-7.jpg">
+
+## Taste of Werewolves
+
+<div class="ui embed" data-source="youtube" data-id="8YLzHL_YHlk"></div>
+
+## Taste of Samson
+
+<div class="ui embed" data-source="youtube" data-id="9XOBwgqOKHk"></div>
+
+## Shakedown Street
+
+<div class="ui embed" data-source="youtube" data-id="kEg4fGuVEE8"></div>
+
+## Audio vignettes
+
+To appear later. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
