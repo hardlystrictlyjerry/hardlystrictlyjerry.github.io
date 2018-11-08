@@ -12,7 +12,7 @@ permalink: /jamspace
 * *Contact*: [https://www.thunderstudiohawaii.com/](https://www.thunderstudiohawaii.com/), 808-232-4028 (Brian)
 * *Rates*: $20-$25/hour depending on room
 * *Room(s)*: 5 rooms, up to 400 sq feet, details [here](https://www.thunderstudiohawaii.com/studios.php)
-* *Equipment*: PA, Drum kit, Bass Amp, 2 guitar amps, 6 vocal mics, Lp Congas. Keyboard (Yamaha M01, Roland amp) is $10/session.
+* *Equipment*: PA, Drum kit, Bass Amp, 2 guitar amps, 6 vocal mics, Lp Congas (on request). Keyboard (Yamaha M01, Roland amp) is $10/session.
 * *Parking*: 5 parking stalls on site, use rights for 5 more
 * *Booking*: [online booking form](http://www.bookeo.com/thunderstudioshawaii)
 * *Reviews*: [Yelp](https://www.yelp.com/biz/thunder-studios-hawaii-honolulu)
