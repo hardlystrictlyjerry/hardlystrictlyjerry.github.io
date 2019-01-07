@@ -6,20 +6,10 @@ permalink: /jamspace
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Jam Space Info</h1>
 
-## Thunder Studios Hawaii
-
-* *Location*: 916 Kaaahi Place, Honolulu, Hawaii
-* *Contact*: [https://www.thunderstudiohawaii.com/](https://www.thunderstudiohawaii.com/), thunderstudioshawaii@yahoo.com, 808-232-4028 (Brian Thompson)
-* *Rates*: $20-$25/hour depending on room
-* *Room(s)*: 5 rooms, up to 400 sq feet, details [here](https://www.thunderstudiohawaii.com/studios.php)
-* *Equipment*: PA, Drum kit, Bass Amp, 2 guitar amps, 6 vocal mics, Lp Congas (on request). Keyboard (Yamaha M01, Roland amp) is $10/session.
-* *Parking*: 5 parking stalls on site, use rights for 5 more
-* *Booking*: [online booking form](http://www.bookeo.com/thunderstudioshawaii)
-* *Reviews*: [Yelp](https://www.yelp.com/biz/thunder-studios-hawaii-honolulu)
 
 ## West One Hawaii
 
-* *Location*: 419 South St, Honolulu, Hawaii
+* *Location*: [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412)
 * *Contact*: [https://www.westonehawaii.com/](https://www.westonehawaii.com/), westonehawaii@gmail.com, 808-286-6710 (Torie)
 * *Rates*: $20/hour (Studio A), $25/hour (Studio B)
 * *Room(s)*: 2 rooms, 400 sq ft (Studio A), 490 sq ft (Studio B)
@@ -39,6 +29,11 @@ permalink: /jamspace
 * *Parking*: no problem in evenings
 * *Booking*: email or call
 * *Reviews*: [Yelp](https://www.yelp.com/biz/kailua-music-school-kailua)
+
+## Others
+
+* Michael and Justin visited Thunder Studios Hawaii (https://www.thunderstudiohawaii.com/) and found the area only appropriate for daylight hour jams. 
+
 
 ## In case you want to do additional research
 

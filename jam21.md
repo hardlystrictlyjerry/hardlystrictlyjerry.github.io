@@ -40,6 +40,6 @@ Setlist: Samson and Delilah, The Mighty Quinn, Evangeline, Candyman, Mama Tried,
 
 <div class="ui embed" data-source="youtube" data-id="kEg4fGuVEE8"></div>
 
-## Audio vignettes
+## Audio
 
-To appear later. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
