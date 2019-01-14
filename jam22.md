@@ -4,11 +4,30 @@ permalink: /jan2019
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Jan 2019</h1>
 
-This month, we continue our Tour Of Oahu Rehearsal Studios with a visit to West One Studios 
- 
-   * Address: [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412)
-   * Studio Instructions: Please be sure to read the [West One Studio FAQ](resources/westonestudios-faq.pdf) prior to arrival. It contains crucial instructions on how to find the studio, parking, etc.
-   * Date: Saturday, January 12
-   * Time: 3-6pm
-   * Setlist:  See the [Jam Notes](http://bit.ly/2sfMHQp) for songs and proposed vocal/lead assignments. 
-  
+This month, we continued our Tour Of Oahu Rehearsal Studios with a visit to West One Studios, and we were very pleased with what we found!
+
+Setlist: Sugaree, Dupree's Diamond Blues, Black Peter, Cats Under the Stars, Loser, Loose Lucy, Mr. Charlie, Box of Rain, Playin in the Band.
+
+## Audio Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings.
+
+### Duprees Diamond Blues
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558764385&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Mr. Charlie
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558765018&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Loose Lucy
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558765162&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Black Peter
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558765396&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Sugaree
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558765714&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
