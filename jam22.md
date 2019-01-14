@@ -4,7 +4,9 @@ permalink: /jan2019
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Jan 2019</h1>
 
-This month, we continued our Tour Of Oahu Rehearsal Studios with a visit to West One Studios, and we were very pleased with what we found!
+This month, we continued our Tour Of Oahu Rehearsal Studios with a visit to West One Studios, and we were very pleased with what we found! Here's a partial picture for context:
+
+<img class="ui centered fluid image" src="/images/west-one-studios.jpg">
 
 Setlist: Sugaree, Dupree's Diamond Blues, Black Peter, Cats Under the Stars, Loser, Loose Lucy, Mr. Charlie, Box of Rain, Playin in the Band.
 
