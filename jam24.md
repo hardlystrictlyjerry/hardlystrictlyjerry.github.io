@@ -8,3 +8,4 @@ permalink: /mar2019
  * Time: 9-11pm
  * Place: Anna O'Briens, 2440 S Beretania St, Honolulu, HI 96826, (808) 946-5190
  * Setlist: See the [March 2019 Anna O'Brien's Jam Notes](http://bit.ly/2Me49Or) for songs and proposed vocal/lead assignments.
+ * Charts: See [2019-03-01-charts.pdf](resources/2019-03-01-charts.pdf) for Kevin's all-in-one-pdf charts.
