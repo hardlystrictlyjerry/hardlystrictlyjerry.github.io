@@ -5,7 +5,7 @@ permalink: /mar2019-2
 <h1><img class="ui avatar image" src="/images/kr-bd-logo.jpg">Mar 2019, KR BD</h1>
 
  * Date: Saturday, March 23
- * Time: 7-9pm
+ * Time: 6-8pm
  * Place: Candis' Farm, Waimanalo (directions are forthcoming)
  * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) for initial info.
 
