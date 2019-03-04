@@ -10,7 +10,7 @@ permalink: /mar2019-2
  * Date: Saturday, March 23
  * HSJ's set: 6-8pm, load-in at 3pm
  * Place: Candice's Farm, 41-875 B Kakaina St Waimanalo, 96795
- * Invitation flyer:  [kevins-40th-invite.png](invites/kevins-40th-invite.png)
+ * Invitation flyer for friends and family:  [kevins-40th-invite.png](invites/kevins-40th-invite.png)
  * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) for initial info.
 
 ### Rehearsal Schedule
