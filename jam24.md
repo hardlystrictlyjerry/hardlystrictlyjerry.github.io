@@ -4,19 +4,47 @@ permalink: /mar2019
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Mar 2019, Anna O'Briens</h1>
 
- * Date: Friday, March 1
- * Time: 9-11pm
- * Place: Anna O'Briens, 2440 S Beretania St, Honolulu, HI 96826, (808) 946-5190
- * Setlist: See the [March 2019 Anna O'Brien's Jam Notes](http://bit.ly/2Me49Or) for songs and proposed vocal/lead assignments.
- * Charts: See [2019-03-01-charts.pdf](resources/2019-03-01-charts.pdf) for Kevin's all-in-one-pdf charts.
+<img class="ui centered fluid image" src="/images/hsj-mar-01-2019.jpg">
+
+HSJ kicked off what is intended to be the first of a series of "Honolulu Dead Nights", with Grateful Dead bands, a Shakedown Street, and other miscellaneous shenanigans.  We'll see how that works out in the future, but HSJ's first foray into the world of bar gigs was a lot of fun.  We broke with tradition and actually rehearsed a couple of times. The in-house sound guy might have gotten a little too enthusiastic with the volume knob, but other than that the night exceeded our expectations.
+
+Setlist:  Cold Rain and Snow, They Love Each Other, Candyman, Loose Lucy, Tennessee Jed, Viola Lee Blues, Black Peter, Terrapin Station, Sugar Magnolia
+
+### Pre-show Pictures
+ 
+<img class="ui centered fluid image" src="/images/hsj-mar-01-2019-1.jpg">
+<img class="ui centered fluid image" src="/images/hsj-mar-01-2019-3.jpg">
+
+## Audio and Video Vignettes
+
+Quickly curated to avoid the more major train wrecks. Contact the Official HSJ audio archivist (Paul) for the complete recordings. 
+
+### Cold Rain and Snow
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584386236&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Loose Lucy
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584385885&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Tennessee Jed
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584385549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Viola Lee Blues
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584385168&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+### Terrapin Station
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584384610&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
-### Rehearsal Schedule
+### Sugar Magnolia
 
-**Sunday, February 10, 3:00-6:00pm**, at Studio B, West One Studios, [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412). Please see the [FAQ sheet](resources/westonestudios-faq.pdf) for parking and entrance directions. Please try to arrive in Kakaako by 2:45pm to find parking as this can be difficult.
-
-**Sunday, February 24, 3:00-6:00pm**, Studio B, West One Studios. See above for details.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584383164&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
-<img class="ui centered fluid image" src="/images/hsj-mar-2019.jpg">
+### Terrapin to Sugar Mag
 
+<div class="ui embed" data-source="youtube" data-id="o3C4jsXzoTk"></div>

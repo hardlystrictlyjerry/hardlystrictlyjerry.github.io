@@ -4,9 +4,13 @@ permalink: /mar2019-2
 ---
 <h1><img class="ui avatar image" src="/images/kr-bd-logo.jpg">Mar 2019, KR BD</h1>
 
+<img class="ui centered fluid image" src="/images/hsj-mar-23-2019-2.jpeg">
+
+
  * Date: Saturday, March 23
- * Time: 6-8pm
- * Place: Candis' Farm, Waimanalo (directions are forthcoming)
+ * HSJ's set: 6-8pm, load-in at 3pm
+ * Place: Candice's Farm, 41-875 B Kakaina St Waimanalo, 96795
+ * Invitation flyer for friends and family:  [kevins-40th-invite.png](invites/kevins-40th-invite.png)
  * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) and [Kevin H's combined setlist PDF](resources/2019-03-23-setlist.pdf)
 
 ### Rehearsal Schedule
