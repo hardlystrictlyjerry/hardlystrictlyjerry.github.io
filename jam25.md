@@ -7,7 +7,7 @@ permalink: /mar2019-2
  * Date: Saturday, March 23
  * Time: 6-8pm
  * Place: Candis' Farm, Waimanalo (directions are forthcoming)
- * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) for initial info.
+ * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) and [Kevin H's combined setlist PDF](resources/2019-03-23-setlist.pdf)
 
 ### Rehearsal Schedule
 
