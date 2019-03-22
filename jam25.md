@@ -17,7 +17,7 @@ permalink: /mar2019-2
 
 **Thursday, March 21**
 
-  * 4-8pm Final rehearsal, KR Band.
+  * 5-9pm Final rehearsal, KR Band.
   * Please bring any mics/cables/etc for Saturday.
 
 **Friday, March 22**
@@ -27,14 +27,14 @@ permalink: /mar2019-2
 
 **Saturday, March 23**
 
-  * 10:30am: Set up PA and wire stage
-  * 12:00pm: Chris arrives, dial in mixer, line check. Need all mics!
+  * 12:00pm: Wire stage, line check.
   * 1:30pm: HSJ sound check
-  * 2:30pm: Acoustic sound check
-  * 3:30-6:30pm: Acoustic set
-  * 6:30-8:30pm: HSJ set
+  * 2:30pm: Jeb and the MoFos sound check
+  * 4:00-5:30pm: Jeb and the MoFos
+  * 6:00-8:00pm: HSJ set
   * 8:30-10:00pm: KR set
-  * 10:00pm-dawn: Mayhem and shenanigans.
+  * 10:30pm: Break down PA
+  * 11:00pm-dawn: Mayhem and shenanigans.
 
 **Sunday, March 24**
 
