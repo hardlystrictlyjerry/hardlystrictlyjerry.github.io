@@ -31,6 +31,7 @@ permalink: /mar2019-2
 
 **Saturday, March 23**
 
+  * 10:30am: Load in
   * 12:00pm: Wire stage, line check.
   * 1:30pm: HSJ sound check
   * 2:30pm: Jeb and the MoFos sound check
