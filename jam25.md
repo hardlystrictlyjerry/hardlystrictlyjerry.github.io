@@ -13,13 +13,30 @@ permalink: /mar2019-2
  * Invitation flyer for friends and family:  [kevins-40th-invite.png](invites/kevins-40th-invite.png)
  * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) and [Kevin H's combined setlist PDF](resources/2019-03-23-setlist.pdf)
 
-### Rehearsal Schedule
+### Schedule
 
-**Sunday, March 10, 1:00-4:00pm**, at Studio B, West One Studios, [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412). Please see the [FAQ sheet](resources/westonestudios-faq.pdf) for parking and entrance directions. Please try to arrive in Kakaako by 12:45pm to find parking as this can be difficult.
+**Thursday, March 21**
 
-(Note: Studio B is actually booked until 6pm so that the KR BD Band can rehearse after HSJ.)
+  * 4-8pm Final rehearsal, KR Band.
+  * Please bring any mics/cables/etc for Saturday.
 
-**Saturday, March 16, 4:30-7:30pm**, Studio B, West One Studios. See above for details.
+**Friday, March 22**
 
-(Note: Studio B is actually booked until 11pm for a subsequent KR BD Band rehearsal.)
+  * 4pm: Meet up at KH's to load up drum riser and PA. (KH, MS, PJ, DC)
+  * 5-7pm: Meet at Farm to unload and build drum riser.
+
+**Saturday, March 23**
+
+  * 10:30am: Set up PA and wire stage
+  * 12:00pm: Chris arrives, dial in mixer, line check. Need all mics!
+  * 1:30pm: HSJ sound check
+  * 2:30pm: Acoustic sound check
+  * 3:30-6:30pm: Acoustic set
+  * 6:30-8:30pm: HSJ set
+  * 8:30-10:00pm: KR set
+  * 10:00pm-dawn: Mayhem and shenanigans.
+
+**Sunday, March 24**
+
+  * Morning: Load out, break down drum riser, take to KH's.
 
