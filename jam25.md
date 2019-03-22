@@ -8,10 +8,14 @@ permalink: /mar2019-2
 
 
  * Date: Saturday, March 23
- * HSJ's set: 6-8pm, load-in at 3pm
  * Place: Candice's Farm, 41-875 B Kakaina St Waimanalo, 96795
- * Invitation flyer for friends and family:  [kevins-40th-invite.png](invites/kevins-40th-invite.png)
- * Setlist: See the [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt) and [Kevin H's combined setlist PDF](resources/2019-03-23-setlist.pdf)
+ * [Invitation flyer for friends and family](invites/kevins-40th-invite.png)
+ * [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt)
+ * [Kevin's HSJ Charts](resources/2019-03-23/2019-03-23-charts-hsj.pdf)
+ * [Stage Plot](resources/2019-03-23/2019-03-23-stage-plot.png)
+ * [Input List](resources/2019-03-23/2019-03-23-input-list.pdf)
+ * [Stage Schedule](resources/2019-03-23/2019-03-23-stage-schedule.pdf)
+ * [Kevin's KR Band Charts](resources/2019-03-23/2019-03-23-charts-kr-band.pdf)
 
 ### Schedule
 
