@@ -1,47 +1,22 @@
 ---
 layout: page
-permalink: /mar2019-2
+permalink: /mar2019-kevin
 ---
 <h1><img class="ui avatar image" src="/images/kr-bd-logo.jpg">Mar 2019, KR BD</h1>
 
 <img class="ui centered fluid image" src="/images/hsj-mar-23-2019-2.jpeg">
 
+Kevin and Tricia threw an absolutely epic 40th birthday party and Hardly Strictly Jerry was there!  
 
- * Date: Saturday, March 23
- * Place: Candice's Farm, 41-875 B Kakaina St Waimanalo, 96795
- * [Invitation flyer for friends and family](invites/kevins-40th-invite.png)
- * [March 2019 KR BD Jam Notes](http://bit.ly/2GFNGSt)
- * [Kevin's HSJ Charts](resources/2019-03-23/2019-03-23-charts-hsj.pdf)
- * [Stage Plot](resources/2019-03-23/2019-03-23-stage-plot.png)
- * [Input List](resources/2019-03-23/2019-03-23-input-list.pdf)
- * [Stage Schedule](resources/2019-03-23/2019-03-23-stage-schedule.pdf)
- * [Kevin's KR Band Charts](resources/2019-03-23/2019-03-23-charts-kr-band.pdf)
+<img class="ui centered fluid image" src="/images/hsj-waimanalo-3-23-19.jpg">
 
-### Schedule
+Setlist: Loose Lucy, Dupree's Diamond Blues, Evangeline, When I paint my masterpiece, Cats under the Stars, Mr. Charlie, Ramble on Rose, Casey Jones, Drums/Space, Eyes of the World, China/Rider, Terrapin Station, Shakedown Street, One More Saturday Night.
 
-**Thursday, March 21**
+Here's a YouTube video of our set.  Check the description field in YouTube for direct links to the start of each song:
 
-  * 5-9pm Final rehearsal, KR Band.
-  * Please bring any mics/cables/etc for Saturday.
+<div class="ui embed" data-source="youtube" data-id="n9Z4SGuQToc"></div>
 
-**Friday, March 22**
+And here's a video of a few tunes from Kevin's BD Band: All the Hubbub!
 
-  * 4pm: Meet up at KH's to load up drum riser and PA. (KH, MS, PJ, DC)
-  * 5-7pm: Meet at Farm to unload and build drum riser.
-
-**Saturday, March 23**
-
-  * 10:30am: Load in
-  * 12:00pm: Wire stage, line check.
-  * 1:30pm: HSJ sound check
-  * 2:30pm: Jeb and the MoFos sound check
-  * 4:00-5:30pm: Jeb and the MoFos
-  * 6:00-8:00pm: HSJ set
-  * 8:30-10:00pm: KR set
-  * 10:30pm: Break down PA
-  * 11:00pm-dawn: Mayhem and shenanigans.
-
-**Sunday, March 24**
-
-  * Morning: Load out, break down drum riser, take to KH's.
+<div class="ui embed" data-source="youtube" data-id="IYpeTgLCWTU"></div>
 

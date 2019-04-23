@@ -6,7 +6,7 @@ permalink: /setlists
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">HSJ Setlists</h1>
 
-As of Mar 2019: 24 Jams, 110 songs, 278 attempts
+As of Apr 2019: 25 Jams, 110 songs, 292 attempts
 
 The column label is a link to the page associated with that setlist.
 

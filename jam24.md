@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mar2019
+permalink: /mar2019-annas
 ---
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Mar 2019, Anna O'Briens</h1>
 
