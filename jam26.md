@@ -8,5 +8,5 @@ Date: TBD
 
 Location: TBD (hopefully Kailua School of Music)
 
-Setlist ideas:  Help on the Way, Slipknot, Franklin's Tower, Playing in the Band, Row Jimmy, My Sisters and Brothers, The way you do the things you do, 
+Setlist ideas:  Help on the Way, Slipknot, Franklin's Tower, Playing in the Band, Row Jimmy, My Sisters and Brothers, The way you do the things you do, Sampson and Delilah, New Speedway Boogie
 
