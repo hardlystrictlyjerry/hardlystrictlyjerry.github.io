@@ -1,26 +1,26 @@
 {t:Brokedown Palace}
 {st:Grateful Dead}
 
-F#                         G#m
+F#                G#m
 Fare you well, my honey,
-A            E                          B
+A        E                 B
 fare you well my only true one.
-F#                                C#m
+F#                      C#m
 All the birds that were singing
-      A                           B
+    A                  B
 are flown, except you alone
 
-E                             A
+E                   A
 Going to leave this Brokedown Palace,
-E                           C#m            A            E
+E               C#m           A            E
 On my hands and knees, I will roll, roll, roll
-E                     G#              A       E
+E             G#         A       E
 Make myself a bed by the waterside,
-E                           F#              A            E
+E                 F#           A            E
 In my time, in my time, I will roll, roll, roll
-E            G#                      A                      E         F#
+E         G#               A                E      F#
 In a bed, in a bed, by the waterside I will lay my head
-E                           F#                             A           E
+E                   F#                  A       E
 Listen to the river sing sweet songs to rock my soul
 
 River gonna take me, sing me sweet and sleepy
