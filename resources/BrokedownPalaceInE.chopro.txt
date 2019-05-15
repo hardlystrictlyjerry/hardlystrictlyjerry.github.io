@@ -1,5 +1,4 @@
-{t:Brokedown Palace}
-{st:Grateful Dead}
+Brokedown Palace
 
 F#                G#m
 Fare you well, my honey,
