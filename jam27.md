@@ -16,4 +16,4 @@ permalink: /jul2019
 
 ### Rehearsal
 
-* Wednesday, July 3, 7-10pm, Kailua Music School.
+* Wednesday, July 3, 7:30-10:30pm, Kailua Music School.
