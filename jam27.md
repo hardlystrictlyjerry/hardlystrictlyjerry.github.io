@@ -3,17 +3,25 @@ layout: page
 permalink: /jul2019
 ---
 
-<h1><img class="ui avatar image" src="/images/july4.jpg">Wave That Flag</h1>
+<h1><img class="ui avatar image" src="/images/july4.jpg">Wave That Flag, 2019 Edition</h1>
 
-* Hosts: Heidi and Kevin Holder
-* Address: [359 Wanaao Road, Kailua HI, 96734](http://maps.google.com/?q=359%20Wanaao%20Road,%20Kailua HI,%2096734)
-* Contact: [808-366-2216](tel:808-366-2216), [kevin@solpowerhawaii.com](mailto:kevin@solpowerhawaii.com)
-* Date: Thursday, July 4, 2019
-* Load-in: 4:00pm. Sound check: 5-5:30ish. Music: 6:30-8:00pm
-* Food: Please bring pupu to share.
-* Guests: Significant others, kids and friends welcome.
-* Setlist and Jam Notes:  [http://bit.ly/2ZFbZ9D](http://bit.ly/2ZFbZ9D)
+<img class="ui centered fluid image" src="/images/hsj-jul-2019.jpg">
 
-### Rehearsal
+The third time's the charm! Kevin and Heidi Holder provided us with a Fourth of July to remember for the third year in a row.
 
-* Wednesday, July 3, 7:30-10:30pm, Kailua Music School.
+Kevin's innovation this year was a 20x20 tent, which meant plenty of space for all our equipment to stay dry and even a little space for the musicians to stretch out in, both literally and musically.
+
+Setlist:  Jack Straw, Cassidy, The Wheel, After Midnight, All Along the Watchtower, Wharf Rat, Big River,  Tennessee Jed, Playing in the Band, Loose Lucy, (Fireworks Break), Brown-Eyed Women, Sugaree, US Blues.
+
+## After Midnight
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/646917486&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+## US Blues (ending)
+
+<div class="ui embed" data-source="youtube" data-id="_TKRK5bYgug"></div>
+
+
+
+
+
