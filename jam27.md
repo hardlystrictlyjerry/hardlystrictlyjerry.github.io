@@ -9,7 +9,7 @@ permalink: /jul2019
 
 The third time's the charm! Kevin and Heidi Holder provided us with a Fourth of July to remember for the third year in a row.
 
-Kevin's innovation this year was a 20x20 tent, which meant plenty of space for all our equipment to stay dry and even a little space for the musicians to stretch out in, both literally and musically.
+Kevin's innovation this year was a 20x20 tent, which meant plenty of space for all our equipment to stay dry and even a little space for the musicians to stretch out in, both physically and musically.
 
 Setlist:  Jack Straw, Cassidy, The Wheel, After Midnight, All Along the Watchtower, Wharf Rat, Big River,  Tennessee Jed, Playing in the Band, Loose Lucy, (Fireworks Break), Brown-Eyed Women, Sugaree, US Blues.
 
