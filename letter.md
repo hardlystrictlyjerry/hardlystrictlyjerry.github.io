@@ -23,4 +23,4 @@ One can imagine hybrids (HSJ-JamBand?). But it's important, at least for me, to 
 
 I think a simple way forward is to return to the "hosting" model, whereby whoever is selected as host has final say over the approach to their event. I think if we had determined the "host" for the Anna's gig early on, and agreed to respect their final decision on structure and content, much of the confusion of recent days could have been avoided. Similarly, if Carlie and Phil are selected as hosts for the October event, then that gives them authority.  People always have the right to opt-out if an event is not to their liking, but at least this way we aren't locking HSJ into single way of being. 
 
-What do you think? 
+What do you think about this?
