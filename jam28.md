@@ -5,11 +5,15 @@ permalink: /sep2019
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Sep 2019</h1>
 
+<img class="ui centered fluid image" src="/images/hsj-annas-sep2019.jpg">
+
 ## Anna's Dead Night
 
+  * Host: Anna O'Briens
+  * Setlist Czar: Paul
+  * Flyer: [hsj-annas-sep2019.jpg](/images/hsj-annas-sep2019.jpg)
   * Date: Saturday, September 14
   * Time: 10pm-midnight
-  * Place: Anna O'Briens.
   * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl)
 
 ### West One Rehearsal 2
