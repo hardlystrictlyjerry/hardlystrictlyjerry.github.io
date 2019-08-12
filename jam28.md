@@ -7,7 +7,7 @@ permalink: /sep2019
 
 <img class="ui centered fluid image" src="/images/hsj-annas-sep2019.jpg">
 
-## Anna's Dead Night
+## Honolulu Dead Night, Sept 2019
 
   * Host: Anna O'Briens
   * Setlist Czar: Paul
