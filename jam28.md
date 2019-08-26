@@ -14,7 +14,7 @@ permalink: /sep2019
   * Flyer: [hsj-annas-sep2019.jpg](/images/hsj-annas-sep2019.jpg)
   * Date: Saturday, September 14
   * Time: 10pm-midnight
-  * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl)
+  * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl) 
 
 ### Rehearsal 3: Kailua Music School
 
