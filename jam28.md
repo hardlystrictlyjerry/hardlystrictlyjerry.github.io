@@ -16,10 +16,17 @@ permalink: /sep2019
   * Time: 10pm-midnight
   * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl)
 
-### West One Rehearsal 2
+### Rehearsal 3: Kailua Music School
 
-  * Date: Sunday, August 18
-  * Time: 3-7pm
-  * Cost: $16.66 per person ($100/6, Dan can't make it)
+  * Date: Saturday, Aug 31
+  * Time: 12-3pm
+  * Cost: $16.66 per person ($100/6, Michael is preparing to burn)
+  * Address: 131 Hekili St # 209, Kailua, HI 96734
+
+### Rehearsal 4: West One Studios
+
+  * Date: Friday, Sept 13
+  * Time: 7-11pm
+  * Cost: $14.29 per person ($100/7)
   * Address: West One Studios, [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412)
   * Studio Instructions: Please be sure to read the [West One Studio FAQ](resources/westonestudios-faq.pdf) prior to arrival. It contains crucial instructions on how to find the studio, parking, etc.
