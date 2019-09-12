@@ -13,15 +13,12 @@ permalink: /sep2019
   * Setlist Czar: Paul
   * Flyer: [hsj-annas-sep2019.jpg](/images/hsj-annas-sep2019.jpg)
   * Date: Saturday, September 14
-  * Time: 10pm-midnight
+  * Schedule: 
+      * 6:00pm: Load In
+      * 7:00pm: Sound Check
+      * 8:00-10:00pm: Hang Out
+      * 10:00pm: Start
   * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl) 
-
-### Rehearsal 3: Kailua Music School
-
-  * Date: Saturday, Aug 31
-  * Time: 12-3pm
-  * Cost: $16.66 per person ($100/6, Michael is preparing to burn)
-  * Address: 131 Hekili St # 209, Kailua, HI 96734
 
 ### Rehearsal 4: West One Studios
 
