@@ -14,6 +14,7 @@ permalink: /oct2019
       * Friday 4pm: Tent and Drum Riser Setup
       * Saturday 4pm: Load in, sound check
       * 6:30-9:30pm: Set list
+      * Sunday am: Breakdown
 
 ### Rehearsal 1: West One Studios
 
