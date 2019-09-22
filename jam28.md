@@ -5,25 +5,32 @@ permalink: /sep2019
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Sep 2019</h1>
 
-## Honolulu Dead Night, Sept 2019
+<img class="ui centered fluid image" src="/images/hsj-sep-2019-flyer.jpg">
 
-  * Host: Anna O'Briens
-  * Setlist Czar: Paul
-  * Flyer: [hsj-annas-sep2019.jpg](/images/hsj-annas-sep2019.jpg)
-  * Date: Saturday, September 14
-  * Schedule: 
-      * 6:00pm: Load In
-      * 7:00pm: Sound Check
-      * 8:00-10:00pm: Hang Out
-      * 10:00pm: Start
-  * Jam Notes: [http://bit.ly/337r3zl](http://bit.ly/337r3zl) 
+Setlist: Shakedown Street, Alabama Getaway, The Mighty Quinn, Ramble On Rose, Cats Under the Stars, Althea, Bertha, Lonesome and a Long Way from Home, Around and Around, One More Saturday Night, Viola Lee Blues, Sugar Magnolia > Scarlet Begonias > Fire on the Mountain > Sunshine Daydream, US Blues.
 
-### Rehearsal 4: West One Studios
+A very fun time was had by all, starting with this pre-gig dinner:
 
-  * Date: Friday, Sept 13
-  * Time: 7-11pm
-  * Cost: $14.29 per person ($100/7)
-  * Address: West One Studios, [419 South St, Honolulu, Hawaii](https://www.google.com/maps/place/419+South+St,+Honolulu,+HI+96813/@21.30011,-157.863606,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006e096a865d27:0xdc961d8d49e3a759!8m2!3d21.30011!4d-157.861412)
-  * Studio Instructions: Please be sure to read the [West One Studio FAQ](resources/westonestudios-faq.pdf) prior to arrival. It contains crucial instructions on how to find the studio, parking, etc.
-  
-<img class="ui centered fluid image" src="/images/hsj-annas-sep2019.jpg">
+<img class="ui centered fluid image" src="/images/hsj-sep-2019-dinner.png">
+
+## Video Vignettes
+
+#### Alabama Getaway
+
+<div class="ui embed" data-source="youtube" data-id="nqGz3Wey5dg"></div>
+
+#### Viola Lee Blues
+
+<div class="ui embed" data-source="youtube" data-id="8HazayQI2Ms"></div>
+
+#### Shakedown Street
+
+<div class="ui embed" data-source="youtube" data-id="3bD1U_QWbFo"></div>
+
+#### Complete First Set
+
+<div class="ui embed" data-source="youtube" data-id="daJdzCaZpEE"></div>
+
+#### Complete Second Set
+
+<div class="ui embed" data-source="youtube" data-id="Fk7Xev74vw0"></div>
