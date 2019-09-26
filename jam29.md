@@ -15,6 +15,7 @@ permalink: /oct2019
       * Saturday 4pm: Load in, sound check
       * 6:30-9:30pm: Set list
       * Sunday am: Breakdown
+  * Setlist Notes: [http://bit.ly/2lc7vsf](http://bit.ly/2lc7vsf)
 
 ### Rehearsal 1: West One Studios
 
