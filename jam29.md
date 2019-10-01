@@ -5,6 +5,8 @@ permalink: /oct2019
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Oct 2019</h1>
 
+<img class="ui centered fluid image" src="/invites/oct-2019.jpg">
+
 ## Carlie Party II
 
   * Host: Carlie Weiner and Phil Thompson 
