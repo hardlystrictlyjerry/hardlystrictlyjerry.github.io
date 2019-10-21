@@ -9,27 +9,14 @@ permalink: /oct2019
 
 ## Carlie Party II
 
-  * Host: Carlie Weiner and Phil Thompson 
-  * Setlist Czar: Michael
-  * Date: Saturday, Oct 12
-  * Schedule: 
-      * Friday 4pm: Tent and Drum Riser Setup
-      * Saturday 4pm: Load in, sound check
-      * 6:30-9:30pm: Set list
-      * Sunday am: Breakdown
-  * Setlist Notes: [http://bit.ly/2lc7vsf](http://bit.ly/2lc7vsf)
-  * Kevin's [PDF Charts](/resources/2019-10-12-setlist.pdf)
+Carlie Weiner, Phil Thompson, and Arlo hosted the second HSJ Halloween party, and a great time was had by all!
 
-### Rehearsal 1: West One Studios
+Setlist:  Cold Rain and Snow, They love each other, Brown-eyed Women, Friend of the Devil, Sugaree, Loose Lucy, Peggy-O, Cassidy, Tennessee Jed, Alabama Getaway, China-Rider, After midnight, Terrapin, He's Gone, Bertha, Not Fade Away, Casey Jones, Brokedown Palace.
 
-  * Date: Wednesday, Oct 2
-  * Time: 7-10pm
-  * Cost: No cost (we'll use Anna gig funds)
-  * Location: West One Studios (Reserved by Kevin)
-  
-### Rehearsal 2: Kailua Music School
+## Video
 
-  * Date: Thursday, Oct 10
-  * Time: 7-10pm
-  * Cost: No cost (we'll use Anna gig funds)
-  * Location: Kailua Music School (Reserved by Philip)
+#### China Cat Sunflower -> I Know You Rider
+
+<div class="ui embed" data-source="youtube" data-id="_lnnOWe8jlY"></div>
+
+

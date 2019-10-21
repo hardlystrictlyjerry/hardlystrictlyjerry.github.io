@@ -10,7 +10,7 @@ As of July 2019: 28 Jams, 110 songs, 320 attempts
 
 The column label is a link to the page associated with that setlist.
 
-<table class="ui unstackable compact celled basic table">
+<table class="ui small unstackable compact basic table">
   <thead>
     <tr>
       <th></th>
