@@ -22,6 +22,9 @@ Here are links to examples of Grateful Dead iconography:
   * [Ice Cream Kid](https://www.google.com/search?biw=1636&bih=997&tbm=isch&sxsrf=ACYBGNTpFoNw8JdzHK8BD3YCRCLhNzcd8w%3A1572312089867&sa=1&ei=GZS3XZnHNI_c-gTT25uQCw&q=grateful+dead+ice+cream+kid&oq=grateful+dead+ice+cream+kid&gs_l=img.3..0l2j0i8i30j0i24l3.26951.35893..36087...14.0..0.148.4454.0j39......0....1..gws-wiz-img.......35i39j0i67j0i10j0i5i30j0i10i30j0i30j0i10i24.TxGVNqY9RAY&ved=0ahUKEwjZt978psDlAhUPrp4KHdPtBrIQ4dUDCAc&uact=5)
   * [American Beauty](https://www.google.com/search?biw=1636&bih=997&tbm=isch&sxsrf=ACYBGNTcqMPrK8a8s584_yVVtPZOCC_jBA%3A1572312126999&sa=1&ei=PpS3XabSPJT--gTdjL64CQ&q=grateful+dead+american+beauty&oq=grateful+dead+american+beauty&gs_l=img.3..0l6j0i30l3j0i8i30.22919.27395..27691...4.0..0.126.2391.0j21......0....1..gws-wiz-img.......35i39j0i24.xUYmbb_xjt8&ved=0ahUKEwim6biOp8DlAhUUv54KHV2GD5cQ4dUDCAc&uact=5)
   * [Typography](https://www.google.com/search?q=grateful+dead+typography&sxsrf=ACYBGNTA7--D7PuHYREgxJHj9aNAJlJqww:1572313633650&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjOwO_crMDlAhWNq54KHbgSCBMQ_AUIEigB&biw=1636&bih=997)
+  * [Fan Art](https://fanart.tv/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6/grateful-dead/)
+  * [Fan Art (Pinterest)](https://www.pinterest.com/pin/373587731574017630/)
+  * [Fan Art (GD Archive)](https://www.gdao.org/fan-art)
 
 
 
