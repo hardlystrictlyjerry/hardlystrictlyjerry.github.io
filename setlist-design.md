@@ -16,17 +16,19 @@ After reviewing six articles on setlist design (links below), I have found there
 * *Know the length of the songs, so you can calculate the length of the set.*
 * *Consider prior setlists, avoid too much repetition.*
 
-## Applications to HSJ setlist design
+## Tips for HSJ setlist design
 
-*Key signatures.*  The [HSJ Master Jam Notes Page](http://bit.ly/2MK4Y55) contains the key signature associated with all of the songs we have previously played. Use it to prevent having more than two songs in a row in the same key.
+*Avoid more than two songs in a row in the same key.*  The [HSJ Master Jam Notes Page](http://bit.ly/2MK4Y55) contains the key signature associated with all of the songs we have previously played.
 
-*Tempos.*  Eventually, the Master Jam Notes will contain tempo information as well. For now, just use your own judgement:  Alabama Getaway = Fast; Candyman = Slow, etc.
+*Incorporate slow songs judiciously.* Eventually, the Master Jam Notes will contain tempo information as well. For now, just use your own judgement:  Alabama Getaway = Fast; Candyman = Slow, etc.  
 
 *Open and close each set with a strong song.*  At the September 2018 jam, Philip decided to open the second set with Dear Prudence, and John Stallings literally yelled his displeasure into the recording mic.
 
-*Know the length of the songs, so you can calculate the length of the set.*  I believe Paul uses 6 minutes per song as a general rule for determining how long a set will last.
+*Plan for 6-8 songs per set*  I believe Paul uses 6 minutes per song as a general rule for determining how long a set will last.
 
-*Consider prior setlists.*  Consult the [Setlists Page](setlists.html) to see when songs have been played previously.
+*Use setlist history to avoid overplaying songs.*  The [Setlists Page](setlists.html) contains the historical record. In general, if we've played the same song the last two gigs, we probably want to give it a rest.
+
+*Consider 1-2 brand new songs.* The [Dead Songbook](resources/dead5v4.pdf]) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.   
 
 ## What did the Dead do?
 
