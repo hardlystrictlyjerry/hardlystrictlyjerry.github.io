@@ -28,7 +28,7 @@ After reviewing six articles on setlist design (links below), I have found there
 
 **Use HSJ setlist history to avoid overplaying songs.**  The [Setlists Page](setlists.html) contains the historical record. In general, if we've played the same song the last two gigs, we probably want to give it a rest.
 
-**Consider 1-2 brand new songs.** The [Dead Songbook](resources/dead5v4.pdf) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.   
+**Consider 1-2 brand new songs.** The [Dead Songbook](resources/deadr5v4.pdf) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.   
 
 ## What did the Dead do?
 
