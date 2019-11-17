@@ -30,7 +30,7 @@ After reviewing six articles on setlist design (links below), I have found there
 
 **Consider 1-2 brand new songs.** The [Dead Songbook](resources/deadr5v4.pdf) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.  
 
-**Check setlists.net to see what songs came before and after a given song.**  [SetLists.net](https://www.setlists.net/) enables you to retrieve links to all the shows where the Dead played a particular song (or group of songs). If you're wondering what the Dead typically played after Estimated Prophet (answer: Eyes of the World), you can get a sense for that here.
+**Check online setlist databases to see what songs came before and after a given song.**  [SetLists.net](https://www.setlists.net/) and [DeadLists.net](http://www.deadlists.com/default.asp) enable you to retrieve links to all the shows where the Dead played a particular song (or group of songs). If you're wondering what the Dead typically played after Estimated Prophet (answer: Eyes of the World), you can get a sense for that at these sites.
 
 ## What did the Dead do?
 
