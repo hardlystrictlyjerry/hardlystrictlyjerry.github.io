@@ -28,7 +28,9 @@ After reviewing six articles on setlist design (links below), I have found there
 
 **Use HSJ setlist history to avoid overplaying songs.**  The [Setlists Page](setlists.html) contains the historical record. In general, if we've played the same song the last two gigs, we probably want to give it a rest.
 
-**Consider 1-2 brand new songs.** The [Dead Songbook](resources/deadr5v4.pdf) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.   
+**Consider 1-2 brand new songs.** The [Dead Songbook](resources/deadr5v4.pdf) contains most of the Dead's repertoire (200+ songs). Consult this for breakout song ideas. We like trying out a small number of new songs.  
+
+**Check setlists.net to see what songs came before and after a given song.**  [SetLists.net](https://www.setlists.net/) enables you to retrieve links to all the shows where the Dead played a particular song (or group of songs). If you're wondering what the Dead typically played after Estimated Prophet (answer: Eyes of the World), you can get a sense for that here.
 
 ## What did the Dead do?
 
