@@ -25,6 +25,8 @@ Philip has booked the following, but awaiting confirmation that everyone ('cept 
   * Saturday, December 7, 2019, 8pm - 11pm, West One Studios. ($75 / 6 = $12.50/each)
   * Sunday, December 29, 2019, 8pm - 11pm, West One Studios. ($75 / 6 = $12.50/each)
 
+## Commemorative Poster
+
 <img class="ui centered fluid image" src="/invites/dec-2019.jpg">
 
 
