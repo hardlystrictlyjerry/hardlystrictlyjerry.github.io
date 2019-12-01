@@ -22,7 +22,7 @@ Heidi and Kevin invite you to a New Years Eve Party:
 
 Philip has booked the following, but awaiting confirmation that everyone ('cept Michael) can make it:
 
-  * Saturday, December 7, 2019, 8pm - 11pm, West One Studios. ($75 / 6 = $12.50/each). Also a reservation at 7pm for Kailua School of Music if we want to start earlier or stay on Windward Side.
+  * Saturday, December 7, 2019, 7pm - 11pm, Kailua School of Music. ($100/6 = $16.66)
   * Sunday, December 29, 2019, 8pm - 11pm, West One Studios. ($75 / 6 = $12.50/each)
 
 ## Commemorative Poster
