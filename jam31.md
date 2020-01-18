@@ -12,6 +12,34 @@ Keepin' it simple.
 * Time: 2-5pm
 * Jam Notes: [http://bit.ly/2TzRDPa](http://bit.ly/2TzRDPa)
 
+Paul did some initial research and came up with the following "wedding friendly" tunes:
+
+  * Everybody Needs Somebody to Love (?)
+  * Eyes of the World (E)
+  * Good Lovin' (C)
+  * Hard To Handle (B)
+  * How Sweet It Is (C)
+  * It Takes A Lot To Laugh, It Takes A Train To Cry* (?)
+  * Jack-A-Roe (Am)
+  * Like A Road (G)
+  * Not Fade Away (E)
+  * Shining Star (B>C)
+  * TWYDTTYD (C)
+  * The Golden Road (To Unlimited Devotion) (?)
+  * They Love Each Other (G)
+  * Turn On Your Lovelight (?)
+
+Others that could work:
+
+  * Around & Around
+  * Franklin's
+  * Might As Well
+  * Quinn The Eskimo
+  * Ripple
+  * Scarlet > Fire
+  * Sugar Mag
+
+
 
 
 
