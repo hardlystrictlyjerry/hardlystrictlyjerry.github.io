@@ -14,18 +14,18 @@ Keepin' it simple.
 
 Paul did some initial research and came up with the following "wedding friendly" tunes:
 
-  * Everybody Needs Somebody to Love (?)
+  * Everybody Needs Somebody to Love (C)
   * Eyes of the World (E)
   * Good Lovin' (C)
   * Hard To Handle (B)
   * How Sweet It Is (C)
-  * It Takes A Lot To Laugh, It Takes A Train To Cry* (?)
+  * It Takes A Lot To Laugh, It Takes A Train To Cry* (A)
   * Jack-A-Roe (Am)
   * Like A Road (G)
   * Not Fade Away (E)
   * Shining Star (B>C)
   * TWYDTTYD (C)
-  * The Golden Road (To Unlimited Devotion) (?)
+  * The Golden Road (To Unlimited Devotion) (G)
   * They Love Each Other (G)
   * Turn On Your Lovelight (?)
 
