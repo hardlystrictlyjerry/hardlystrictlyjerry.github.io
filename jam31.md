@@ -15,7 +15,7 @@ permalink: /jun2020
 * Date: Sunday, Feb 23, 2020
 * Time: 2-6pm
 * Place: West One Studios
-* Songs: Golden Road, Might As Well, It Takes a Lot to Laugh, TWYDTTYD, Lovelight, Like a Road, Second that Emotion, Jack-A-Roe
+* Songs: Golden Road, Might As Well, It Takes a Lot to Laugh, TWYDTTYD, Lovelight, Like a Road, Second that Emotion, Jack-A-Roe. (Highlighted in Green in the Jam Notes)
 
 
 
