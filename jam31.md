@@ -3,7 +3,7 @@ layout: page
 permalink: /jun2020
 ---
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">John and Rachel Wedding</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">John and Rachael Wedding</h1>
 
 * What: John and Rachael's wedding
 * When: Saturday, June 20, 2020
