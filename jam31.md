@@ -13,7 +13,7 @@ permalink: /jun2020
 ## Next Rehearsal:
 
 * Date: Sunday, Feb 23, 2020
-* Time: 2-6pm
+* Time: 1-5pm
 * Place: West One Studios
 * Songs: Golden Road, Might As Well, It Takes a Lot to Laugh, TWYDTTYD, Lovelight, Like a Road, Second that Emotion, Jack-A-Roe. (Highlighted in Green in the Jam Notes)
 
