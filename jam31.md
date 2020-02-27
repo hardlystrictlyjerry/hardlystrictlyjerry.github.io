@@ -12,10 +12,10 @@ permalink: /jun2020
 
 ## Next Rehearsal:
 
-* Date: Sunday, Feb 23, 2020
+* Date: Sunday, March 29, 2020
 * Time: 1-5pm
-* Place: West One Studios
-* Songs: Golden Road, Might As Well, It Takes a Lot to Laugh, TWYDTTYD, Lovelight, Like a Road, Second that Emotion, Jack-A-Roe. (Highlighted in Green in the Jam Notes)
+* Place: Kailua Music School
+* Songs: Might as well, Sisters and Brothers, Second that emotion, Good lovin, Everybody Needs Somebody to Love, Around and Around, Lovelight, Ripple. (Highlighted in Green in the Jam Notes)
 
 
 
