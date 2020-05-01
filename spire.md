@@ -18,7 +18,7 @@ Second, once the app is installed, navigate to this page using a browser on your
 
 Third, once you have the project open, you are ready to record your track.  Here are some hints:
 
-  * You will need to position your iPhone's microphone near your sound source. You will also need to plug in headphones to your iPhone so you can monitor the previously recorded tracks while you add your own. Resist the temptation to use bluetooth headphones like a EarPod: I bought a pair just for this and they introduce an unacceptable lag. Wired earbuds have worked fine for me.
+  * You will need to position your iPhone's microphone near your sound source. You will also need to plug in headphones to your iPhone so you can monitor the previously recorded tracks while you add your own. Resist the temptation to use bluetooth headphones like EarPods: I bought a pair just for this and bluetooth introduces an unacceptable lag. Wired earbuds have worked fine for me.
 
   * I've used amplification for all my tracks: Fishman LoudBox for acoustic guitar and vocals, Fender Princeton Reverb for electric guitar. I place my iPhone about two inches from the amp.  I suspect this is not necessary and you can just record straight from your instrument/voice into the iPhone mic if you prefer.
 
