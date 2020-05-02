@@ -66,9 +66,17 @@ Here are the projects I have so far.  Spire project links expire after a week, s
 
 ## Sisters and Brothers
 
-#### Spire Project (expires 5/8/20)
+#### "Sisters and Brothers" Spire Project (PJ) (expires 5/8/20)
 
 [https://share.izotope.com/Collections/4edee7ea-ae9f-4c29-aeb0-a45c0de9bd02](https://share.izotope.com/Collections/4edee7ea-ae9f-4c29-aeb0-a45c0de9bd02)
+
+#### "Sisters and Brothers 2" Spire Project (PJ, MS) (expires 5/9/20)
+
+[https://share.izotope.com/Collections/2e728b0b-2d58-446a-977f-126dd99003b1](https://share.izotope.com/Collections/2e728b0b-2d58-446a-977f-126dd99003b1)
+
+#### "Sisters and Brothers 2" Preview Audio (.wav)
+
+[spire/sisters-and-brothers-pj-ms.wav](../spire/sisters-and-brothers-pj-ms.wav)
 
 #### Draft video
 
