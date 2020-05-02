@@ -40,16 +40,25 @@ For extra fun, use some other device with a camera to record yourself while you'
 
 Send me your video file somehow and I will update the YouTube video with your clip!
 
-**5. Share your revised Spire Project.**
+**5. Share your new Spire Project.**
 
-When you're ready to share your additions, please do the following:
+When you're ready to share your local Spire Project, please do the following:
 
-First, it's helpful to rename your copy of the Spire project.  So, for example, if you're Michael and you downloaded the Spire Project called "Sisters and Brothers", you could rename it to "Sisters and Brothers (MS)".  To rename a project, just click on the project name and it will bring up an edit pane.
+First, it's helpful to rename your copy of the original Spire project.  So, for example, if you're Michael and you downloaded the Spire Project called "Sisters and Brothers", you could rename it to "Sisters and Brothers (MS)".  To rename a project, just click on the project name and it will bring up an edit pane.
 
 Second, click on the "Upload" icon at the top left of the screen, then click on "Spire Project", then "Share via link". Then text the link to me (or whoever).
 
 *Important!!!* After texting the link, you need to keep the Spire app open for a few minutes!  This is because when you click "Share via link", it starts uploading your tracks silently in the background.  If you quit the app immediately, then the upload will be interrupted and when others try to download your new Spire Project, there will be an error ("Oops! Project was unable to be shared.")
 
+**FAQ: But what happens with more than two musicians?**
+
+So, the alert reader might be asking: what happens if two musicians download the same "base" Spire Project and add their tracks independently? How do we "merge" these independently updated Spire Projects?
+
+The answer, as far as I can tell, is that you can't simply "merge" two Projects, but you can export tracks as .wav files. These can be imported into GarageBand (or any other DAW you have around).
+
+So, if a bunch of us edit the same base Project, I will export all the tracks and provide links to them here so you can create a "merged" version in GarageBand. (I could also create a pre-mixed wav file with all the individual tracks in a new project).
+
+Another option is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. That could also work well once we all get comfortable with the process and decide this is a fun activity.
 
 ## Current projects
 
