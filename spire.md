@@ -66,21 +66,27 @@ Here are the projects I have so far.  Spire project links expire after a week, s
 
 ## Sisters and Brothers
 
-#### "Sisters and Brothers" Spire Project (PJ) (expires 5/8/20)
+So far, Philip has recorded one guitar and two vocal tracks, Michael has added two guitar tracks, and Kevin H. has added a bass track. To simplify additional contributions since we only have eight tracks total, I have created a mix of all of the tracks so far and created a new Spire project you can use which has 7 free tracks.
 
-[https://share.izotope.com/Collections/4edee7ea-ae9f-4c29-aeb0-a45c0de9bd02](https://share.izotope.com/Collections/4edee7ea-ae9f-4c29-aeb0-a45c0de9bd02)
+In case you want to create your own mix, I provide a link to a .zip file containing the .wav files for each individual track recorded so far. You can download this .zip and import them into the DAW of your choice.
 
-#### "Sisters and Brothers 2" Spire Project (PJ, MS) (expires 5/9/20)
+#### Mix 1 Spire Project (expires 5/11/20)
 
-[https://share.izotope.com/Collections/2e728b0b-2d58-446a-977f-126dd99003b1](https://share.izotope.com/Collections/2e728b0b-2d58-446a-977f-126dd99003b1)
+[https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f](https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f)
 
-#### "Sisters and Brothers 2" Preview Audio (.wav)
+#### Mix 1 Individual Tracks
 
-[spire/sisters-and-brothers-pj-ms.wav](../spire/sisters-and-brothers-pj-ms.wav)
+[sisters-and-brothers-individual-tracks.zip](https://drive.google.com/file/d/18b27QWV7hY3MbfQ8emw9OHb4D5Y-bp38/view?usp=sharing)
 
-#### Draft video
+#### Mix 1 Preview Audio
 
-<div class="ui embed" data-source="youtube" data-id="8rBGEJNX9LY"></div>
+[spire/sisters-and-brothers-mix1.m4a](../spire/sisters-and-brothers-mix1.m4a)
+
+#### Mix 1 YouTube
+
+Sorely missing video for Michael's guitar.
+
+<div class="ui embed" data-source="youtube" data-id="mtZH0wF0CMs"></div>
 
 ## Everything's Right
 
