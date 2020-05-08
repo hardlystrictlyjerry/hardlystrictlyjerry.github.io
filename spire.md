@@ -66,7 +66,7 @@ Here are the projects I have so far.  Spire project links expire after a week, s
 
 ## Sisters and Brothers
 
-So far, Philip has recorded one guitar and two vocal tracks, Michael has added two guitar tracks, and Kevin H. has added a bass track. To simplify additional contributions since we only have eight tracks total, I have created a mix of all of the tracks so far and created a new Spire project you can use which has 7 free tracks.
+So far, Philip has recorded one guitar and two vocal tracks, Michael has added a guitar track, and Kevin H. has added a bass track. To simplify additional contributions since we only have eight tracks total, I have created a mix of all of the tracks so far and created a new Spire project you can use which has 7 free tracks.
 
 In case you want to create your own mix, I provide a link to a .zip file containing the .wav files for each individual track recorded so far. You can download this .zip and import them into the DAW of your choice.
 
@@ -74,19 +74,15 @@ In case you want to create your own mix, I provide a link to a .zip file contain
 
 [https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f](https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f)
 
-#### Mix 1 Individual Tracks
+#### Individual Tracks
 
-[sisters-and-brothers-individual-tracks.zip](https://drive.google.com/file/d/18b27QWV7hY3MbfQ8emw9OHb4D5Y-bp38/view?usp=sharing)
+[sisters-and-brothers-individual-tracks (directory)](https://drive.google.com/open?id=1D86k0AT0zyBsnH-cqglp_-bqqI9bV0Ww)
 
-#### Mix 1 Preview Audio
+#### Latest Mix (YouTube)
 
-[spire/sisters-and-brothers-mix1.m4a](../spire/sisters-and-brothers-mix1.m4a)
+Sorely missing percussion and keys~
 
-#### Mix 1 YouTube
-
-Sorely missing video for Michael's guitar.
-
-<div class="ui embed" data-source="youtube" data-id="mtZH0wF0CMs"></div>
+<div class="ui embed" data-source="youtube" data-id="oPl1TDUAnFk"></div>
 
 ## Everything's Right
 
