@@ -70,9 +70,9 @@ So far, Philip has recorded one guitar and two vocal tracks, Michael has added a
 
 In case you want to create your own mix, I provide a link to a .zip file containing the .wav files for each individual track recorded so far. You can download this .zip and import them into the DAW of your choice.
 
-#### Mix 1 Spire Project (expires 5/11/20)
+#### Mix 1 Spire Project (expires 5/18/20)
 
-[https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f](https://share.izotope.com/Collections/a76735ab-7fbc-4592-aa6b-711221c9327f)
+[https://share.izotope.com/Collections/69fe3f1c-0b24-4720-8ee6-2344149a2c93](https://share.izotope.com/Collections/69fe3f1c-0b24-4720-8ee6-2344149a2c93)
 
 #### Individual Tracks
 
