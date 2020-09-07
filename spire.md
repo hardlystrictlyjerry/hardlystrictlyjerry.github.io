@@ -10,13 +10,15 @@ This page provides information on how we can jam together using Spire.
 
 **1. Download Spire app.**
 
-First, download the free [Spire app](https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109). You need an iOS device (iPhone or iPad).  I will refer to "iPhone" in the remainder of these instructions, but iPads are just the same.
+First, download the free [Spire app](https://apps.apple.com/us/app/spire-music-recorder-studio/id1013021109). You need an iOS device (iPhone or iPad) for this link.  I will refer to "iPhone" in the remainder of these instructions, but iPads are just the same.
+
+There may be an Android version available too.
 
 **2. Download a copy of an HSJ Spire "project" (song).**
 
-Second, once the app is installed, navigate to this page using a browser on your iPhone and click on one of the "Spire Project" links below. Hopefully, it will ask you if you want to open the link in the Spire app. You want to say Yes. (If this doesn't happen, let me know so I can update these instructions).
+Second, once the app is installed, you should be able to open it on your phone by clicking the link in the text message.
 
-This will download a copy of the project to your phone. If you accidentally delete all the tracks or something, you can recover by deleting the project and downloading a new copy. Nothing you do on your phone will affect the Spire projects on this page.
+This will download a copy of the project to your phone. If you accidentally delete all the tracks or something, you can recover by deleting the project and downloading a new copy. Nothing you do on your phone will affect the Spire projects in the cloud.
 
 **3. Record additional tracks on your Spire Project copy.**
 
@@ -59,48 +61,3 @@ The answer, as far as I can tell, is that you can't simply "merge" two Projects,
 So, if a bunch of us edit the same base Project, I will export all the tracks and provide links to them here so you can create a "merged" version in GarageBand. (I could also create a pre-mixed wav file with all the individual tracks in a new project).
 
 Another option is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. That could also work well once we all get comfortable with the process and decide this is a fun activity.
-
-## Current projects
-
-Here are the projects I have so far.  Spire project links expire after a week, so if it's past the date, let me know and I'll refresh the link.
-
-## Sisters and Brothers
-
-So far, Philip has recorded one guitar and two vocal tracks, Michael has added a guitar track, and Kevin H. has added a bass track. To simplify additional contributions since we only have eight tracks total, I have created a mix of all of the tracks so far and created a new Spire project you can use which has 7 free tracks.
-
-In case you want to create your own mix, I provide a link to a .zip file containing the .wav files for each individual track recorded so far. You can download this .zip and import them into the DAW of your choice.
-
-#### Mix 1 Spire Project (expires 5/18/20)
-
-[https://share.izotope.com/Collections/69fe3f1c-0b24-4720-8ee6-2344149a2c93](https://share.izotope.com/Collections/69fe3f1c-0b24-4720-8ee6-2344149a2c93)
-
-#### Individual Tracks
-
-[sisters-and-brothers-individual-tracks (directory)](https://drive.google.com/open?id=1D86k0AT0zyBsnH-cqglp_-bqqI9bV0Ww)
-
-#### Latest Mix (YouTube)
-
-Sorely missing percussion and keys~
-
-<div class="ui embed" data-source="youtube" data-id="oPl1TDUAnFk"></div>
-
-## Everything's Right
-
-#### Spire Project (expires 5/8/20)
-
-[https://share.izotope.com/Collections/b0986d86-c8d3-4840-90ef-c3fd36ba51ff](https://share.izotope.com/Collections/b0986d86-c8d3-4840-90ef-c3fd36ba51ff)
-
-#### Draft video
-
-<div class="ui embed" data-source="youtube" data-id="G1W-NC8Kd2E"></div>
-
-
-## High Time
-
-#### Spire Project (expires 5/8/20)
-
-[https://share.izotope.com/Collections/ff4fcfb3-17bb-459e-b300-18316e9d6234](https://share.izotope.com/Collections/ff4fcfb3-17bb-459e-b300-18316e9d6234)
-
-#### Draft video
-
-<div class="ui embed" data-source="youtube" data-id="KnLMA6llctQ"></div>
