@@ -20,6 +20,8 @@ Second, once the app is installed, you should be able to open it on your phone b
 
 This will download a copy of the project to your phone. If you accidentally delete all the tracks or something, you can recover by deleting the project and downloading a new copy. Nothing you do on your phone will affect the Spire projects in the cloud.
 
+If, when you try to download the project, it says "Oops!", that's because the person who uploaded the project did not leave the Spire project open long enough for downloading to complete. Contact them to fix it.
+
 **3. Record additional tracks on your Spire Project copy.**
 
 Once you have a local copy of your project open, you are ready to record new tracks.  Here are some hints:
@@ -28,11 +30,11 @@ You will need to position your iPhone's microphone near your sound source. You w
 
 I've used amplification for all my tracks: Fishman LoudBox for acoustic guitar and vocals, Fender Princeton Reverb for electric guitar. I place my iPhone about two inches from the amp.  I suspect this is not necessary and you can just record straight from your instrument/voice into the iPhone mic if you prefer.
 
-Once you have everything positioned, click on the left side of the track bar to reveal the "Soundcheck" icon. After clicking, it asks you to play (or sing) and the identifies what the sound source is (guitar, bass, vocals, keys, etc) and applies appropriate levels and EQ.  Amaze Balls!
+Once you have everything positioned, click on the "Record" tab to reveal the "Soundcheck" icon. After clicking, it asks you to play (or sing) and the identifies what the sound source is (guitar, bass, vocals, keys, etc) and applies appropriate levels and EQ.  Amaze Balls!
 
-Now you are ready to record.  Press the red button and let 'er rip.  If you don't like it, you can click on the right side of the track bar to reveal a menu that lets you delete the track.
+Now you are ready to record.  Click on the "Edit" tab to reveal all of the tracks, press the red button, and let 'er rip.  If you don't like it, you can click on the right side of the track bar to reveal a menu that lets you delete the track.
 
-After you've recorded a track you like, press the "Mix" button to go to a page where you can move your track forward or backward or left or right in the mix.
+After you've recorded a track you like, click on the "Mix" tab to go to a page where you can move your track forward or backward or left or right in the mix.
 
 There's not much documentation, and fortunately the app is so simple that you don't need much, but here's a page from the manufacturer that I found very useful at the beginning: [Getting the most out of the free Spire app](https://www.izotope.com/en/learn/getting-the-most-out-of-the-free-spire-ios-app.html).
 
@@ -46,11 +48,13 @@ Send me your video file somehow and I will update the YouTube video with your cl
 
 When you're ready to share your local Spire Project, please do the following:
 
-First, it's helpful to rename your copy of the original Spire project.  So, for example, if you're Michael and you downloaded the Spire Project called "Sisters and Brothers", you could rename it to "Sisters and Brothers (MS)".  To rename a project, just click on the project name and it will bring up an edit pane.
+First, **please rename your copy of the original Spire project.**  Just click on the project title to enter edit mode.  For example, if you're Michael and you downloaded the Spire Project called "Sisters and Brothers (PJ)", you could rename it to "Sisters and Brothers (PJ,MS)".
 
-Second, click on the "Upload" icon at the top left of the screen, then click on "Spire Project", then "Share via link". Then text the link to me (or whoever).
+Second, click on the "Upload" icon at the top left of the screen, then click on "Spire Project", then "Share via link". You can click the "Copy" button to copy the link so that you can later paste it into a text message.
 
-*Important!!!* After texting the link, you need to keep the Spire app open for a few minutes!  This is because when you click "Share via link", it starts uploading your tracks silently in the background.  If you quit the app immediately, then the upload will be interrupted and when others try to download your new Spire Project, there will be an error ("Oops! Project was unable to be shared.")
+**Important!!!** After clicking the Upload icon, you need to wait for about 30 seconds to let the app upload your Spire project to the cloud.  The top of the screen provides a progress bar showing how far the upload has gone.
+
+Wait until the upload has completed to switch to your text message app to send the link. If you leave the app to early, then the upload will be interrupted and when others try to download your new Spire Project, there will be an error ("Oops! Project was unable to be shared.")  That's not the end of the world, it just means you'll need to return to Spire, upload again, and text the new link out.
 
 **FAQ: But what happens with more than two musicians?**
 
@@ -60,4 +64,4 @@ The answer, as far as I can tell, is that you can't simply "merge" two Projects,
 
 So, if a bunch of us edit the same base Project, I will export all the tracks and provide links to them here so you can create a "merged" version in GarageBand. (I could also create a pre-mixed wav file with all the individual tracks in a new project).
 
-Another option is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. That could also work well once we all get comfortable with the process and decide this is a fun activity.
+A simple alternative is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. To do this, it's helpful to announce to the group that you are going to be working on your track in the near future. Then others can wait until you've uploaded your project to continue. 
