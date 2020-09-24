@@ -64,4 +64,4 @@ The answer, as far as I can tell, is that you can't simply "merge" two Projects,
 
 So, if a bunch of us edit the same base Project, I will export all the tracks and provide links to them here so you can create a "merged" version in GarageBand. (I could also create a pre-mixed wav file with all the individual tracks in a new project).
 
-A simple alternative is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. To do this, it's helpful to announce to the group that you are going to be working on your track in the near future. Then others can wait until you've uploaded your project to continue. 
+A simple alternative is "round robin", where we sequentially work on a single Spire project and "pass it around" to each person in turn. To do this, it's helpful to announce to the group that you are going to be working on your track in the near future. Then others can wait until you've uploaded your project to continue.
