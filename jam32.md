@@ -14,6 +14,7 @@ HSJ's Fourth July 4th Jam:
 * Time: TBD
 * Guest Policy: TBD
 * Setlist and Jam Notes: [https://bit.ly/3ci4iPp](https://bit.ly/3ci4iPp)
+* HSJ Reference Versions: [https://bit.ly/3wQXxfc](https://bit.ly/3wQXxfc)
 
 Rehearsals (all at Shapiro Carportorium, 1036 Lunaai St, Kailua):
    * Sat Jun 19, 1:30pm
