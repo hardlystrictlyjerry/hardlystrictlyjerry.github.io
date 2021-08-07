@@ -5,22 +5,26 @@ permalink: /jul2021
 
 <h1><img class="ui avatar image" src="/images/july4.jpg">Wave That Flag</h1>
 
-HSJ's Fourth July 4th Jam:
+Hardly Strictly Jerry surfed in a jam on July right between the fourth and fifth COVID pandemic waves. It required a last minute change of venue, and an even more last minute change of date, but finally around 70 Dead-music starved folks convened at Michael Shapiro's for food, music, hot tubs, and fun. Oh, and a light show courtesy of Kevin Hughes!
 
-* Host: Carlie Weiner and Phil Thompson
-* Address: [627 Kaha St, Kailua HI, 96734](http://maps.google.com/?q=627%20Kaha%20St,%20Kailua HI,%2096734)
-* Contact: [808-628-8666](tel:808-628-8666), [carliewiener@gmail.com](mailto:carliewiener@gmail.com)
-* Date: Sunday, July 4.
-* Time: TBD
-* Guest Policy: TBD
-* Setlist and Jam Notes: [https://bit.ly/3ci4iPp](https://bit.ly/3ci4iPp)
-* HSJ Reference Versions: [https://bit.ly/3wQXxfc](https://bit.ly/3wQXxfc)
+Setlist: Sugar Magnolia, Bertha, Second that Emotion, Ramble on Rose, Gomorrah, My Sisters and Brothers, Loose Lucy, Althea, Jack Straw, Might as Well, The Golden Road (to unlimited devotion), Dancing in the Streets, Everybody Needs Somebody to Love, Scarlet Begonias, Fire on the Mountain, Black Peter, Eyes of the World, Sunshine Daydream, US Blues.
 
-Rehearsals (tentatively at Shapiro Carportorium, 1036 Lunaai St, Kailua):
-   * Sat Jun 19, 1:30pm
-   * Sat Jun 26, 1:30pm
-   * Sat Jul 3, 1:30pm
+## Pictures
 
+### First set
+<img class="ui centered fluid image" src="/images/hsj-jul-2021-2.jpeg">
+
+### Second set:
+
+<img class="ui centered fluid image" src="/images/hsj-jul-2021-1.jpeg">
+
+## Videos
+
+### Golden Road (soundboard)
+<div class="ui embed" data-source="youtube" data-id="Asgv-EjC4-g"></div>
+
+### Second set
+<div class="ui embed" data-source="youtube" data-id="clokkC1EZq0"></div>
 
 
 
