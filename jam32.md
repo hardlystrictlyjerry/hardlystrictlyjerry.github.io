@@ -23,7 +23,11 @@ Setlist: Sugar Magnolia, Bertha, Second that Emotion, Ramble on Rose, Gomorrah, 
 
 ### Golden Road (soundboard)
 
-<div class="ui embed" data-source="youtube" data-id="Asgv-EjC4-g"></div>
+<div class="ui embed" data-source="youtube" data-id="wOQRIgasbr4"></div>
+
+### Black Peter->Eyes of the World (soundboard)
+
+<div class="ui embed" data-source="youtube" data-id="JtfXf6aOi9M"></div>
 
 ### Second set
 
