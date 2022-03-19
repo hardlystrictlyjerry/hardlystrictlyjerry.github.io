@@ -9,6 +9,7 @@ permalink: /jun2022
 * When: Saturday, June 18, 2022, 4:30pm - 6:00pm.
 * Where: Kiki and Tim's Farm. (Address and directions TBD)
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
+* Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
 
 ## Rehearsal schedule
 
