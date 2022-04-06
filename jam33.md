@@ -10,6 +10,7 @@ permalink: /jun2022
 * Where: Kiki and Tim's Farm. (Address and directions TBD)
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
 * Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
+* PDF Charts: [here](/resources/2022-06-18-setlist.pdf)
 
 ## Rehearsal schedule
 
