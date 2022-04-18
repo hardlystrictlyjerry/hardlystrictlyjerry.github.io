@@ -14,6 +14,5 @@ permalink: /jun2022
 
 ## Rehearsal schedule
 
-  1. Sunday, April 2, 2-6pm, West One Studios
-  2. Saturday, April 16, 2-6pm, Kailua School of Music
-  3. (Remaining rehearsals TBD, after 5/16)
+  1. Sunday, May 29, 2-6pm, West One Studios
+  2. Saturday, June 11, 2-6pm, Kailua School of Music
