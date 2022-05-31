@@ -5,14 +5,59 @@ permalink: /jun2022
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Kiki's Farm Summer 2022</h1>
 
+## Overview
+
 * What: HSJ and Stephen Inglis
-* When: Saturday, June 18, 2022, 4:30pm - 6:00pm.
-* Where: Kiki and Tim's Farm. (Address and directions TBD)
+* When: Saturday, June 18, 2022, Doors Open 3pm, we play 4:30pm - 6:00pm.
+* Where: Kiki and Tim's Farm, 68-670 Farrington Hwy, Waialua, HI 96791
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
 * Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
-* PDF Charts: [here](/resources/2022-06-18-setlist.pdf)
+
+## Kiki's email announcement (5/30/22)
+
+Exciting announcement!
+
+We have just added a third band to the line up! Like Jerry’s banjo beginnings, it will be bluegrass style grateful tunes starting at 3:15 so don’t be late!
+
+Doors open at 3; Music starts shortly after.
+
+Thank you for joining us for the most joyous afternoon ever! Get ready to be grateful!  Sat. June 18, 3pm
+
+But first, here’s how to get there!
+
+Sunshine Family Farm is an off grid farm tucked in the mountains of Mokuleia, behind Dillingham Airfield.
+It’s at the end of a winding dirt road so be sure to arrive with plenty of splintered sunlight! (or a long strange trip it shall be!)
+
+68-670 Farrington Hwy
+
+Turn onto the dirt road and follow to the end 1.5 miles. Road turns right and left but just keep coming down. Follow arrows and signs. There’s 2 gates before our spot.
+
+Code 0618, SEND.  (for both gates)
+
+Come through the gate and follow to the end. We are at the very end on the left. Park only on left hand side of the road.
+
+Please be courteous as you pass through neighboring farmland, as it is all private property.
+
+It’s beautiful but raw land, so be prepared to be in the elements. Suncoverage, natural bug spray, water bottles. Bring a beach blanket or beach chairs. No dogs.
+
+Food and beverage for sale. (Vegan)
+
+Conscious Event: No alcohol.
+
+Doors open at 3pm. Music starts at 3:15. 
+  * Opening grateful bluegrass band. 
+  * 2 Headlining amazing electric bands specializing in paying tribute to the greatest songs on earth! The setlists are to die for! You don’t wanna miss any of it!  Come early, dance your face off!
+
+Private event. Farm fundraiser, not for profit. Share ticket link with friends, but do not share location because it is presale only, no doorsales day of.
+
+We are so grateful to come together in community and rejoice and share our love of music and nature with you!
+
+Much love, Tim, Kiki, and the Sunshine Family Farm
 
 ## Rehearsal schedule
 
-  1. Sunday, May 29, 2-6pm, West One Studios
-  2. Saturday, June 11, 2-6pm, Kailua School of Music
+ * Saturday, June 11, 2-6pm, Kailua School of Music
+
+## Poster
+
+<img class="ui centered fluid image" src="/images/hsj-jun-2022.png">
