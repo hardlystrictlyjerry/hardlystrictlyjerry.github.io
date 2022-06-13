@@ -7,8 +7,9 @@ permalink: /jun2022
 
 ## Overview
 
-* What: HSJ and Stephen Inglis
-* When: Saturday, June 18, 2022, Doors Open 3pm, we play 4:30pm - 6:00pm.
+* What: The Other Ones, HSJ, and Stephen Inglis
+* When: Saturday, June 18, 2022
+* Soundcheck: 2pm, we play 4:30pm - 6:00pm.
 * Where: Kiki and Tim's Farm, 68-670 Farrington Hwy, Waialua, HI 96791
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
 * Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
