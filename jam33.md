@@ -12,7 +12,6 @@ permalink: /jun2022
 * Where: Kiki and Tim's Farm, 68-670 Farrington Hwy, Waialua, HI 96791
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
 * Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
-* 6/11/22 Rehearsal DropBox link: [here](https://www.dropbox.com/l/scl/AABK5MWxeWIVZ46faV67VRfwSRUkUZZpWB8)
 
 ## Jason's email (6/10/22)
 
