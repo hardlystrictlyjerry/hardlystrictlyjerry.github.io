@@ -74,10 +74,6 @@ We are so grateful to come together in community and rejoice and share our love 
 
 Much love, Tim, Kiki, and the Sunshine Family Farm
 
-## Rehearsal schedule
-
- * Saturday, June 11, 2-6pm, Kailua School of Music
-
 ## Poster
 
 <img class="ui centered fluid image" src="/images/hsj-jun-2022.png">
