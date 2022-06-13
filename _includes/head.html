@@ -1,8 +1,18 @@
+{%- assign url = '/' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign title = site.title -%}
+{%- assign description = site.description -%}
+{%- assign image = '/images/aftermidnight2.jpg' | prepend: site.baseurl | prepend: site.url -%}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="mobile-web-app-capable" content="yes">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Hardly Strictly Jerry">
+  <meta property="og:url" content="{{ url }}">
+  <meta property="og:title" content="Hardly Strictly Jerry">
+  <meta property="og:image" content="{{ image }}">
 
   <title>{{ site.title }}</title>
 

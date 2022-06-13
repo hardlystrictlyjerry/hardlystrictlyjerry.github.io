@@ -12,6 +12,27 @@ permalink: /jun2022
 * Where: Kiki and Tim's Farm, 68-670 Farrington Hwy, Waialua, HI 96791
 * Setlist Notes: [https://bit.ly/3imagkW](https://bit.ly/3imagkW)
 * Reference Version Playlist: [here](https://www.youtube.com/playlist?list=PLm1Z0_hDi6TgaCIpreeFgUEGIkzEm-ecw)
+* 6/11/22 Rehearsal DropBox link: [here](https://www.dropbox.com/l/scl/AABK5MWxeWIVZ46faV67VRfwSRUkUZZpWB8)
+
+## Jason's email (6/10/22)
+
+Schedule:
+* Doors at 3
+* 3:30 - 4:14 opening acoustic bluegrass The Other Ones
+* 4:30 - 6  hardly strictly
+* 6:30 - 8:30 ingles
+
+Planning to arrive between noon and 1 to setup.   You guys are sharing drums so that's cool; please be ready to soundcheck around 2.
+
+Speakers - I've got my usual qsc setup.  2 x 12 mains, there will be a subwoofer (thanks tim).  If someone wants to bring additional speakers to cover the space better, we can chain them off the mains easily enough but you'll need stands.
+
+The stage is not huge.   I'm gonna set up 3 monitors - stage left, stage right, and drummer.  There's really not room for more on stage.
+
+The stage was only covered by a tent that covered exactly the stage size last time; if it rains wind will blow it on stage.  It's also quite dusty out there if it's dry and the sun beats down.  Consider stuff to cover your gear when not in use like a sheet or tarp. (Editor's note: The stage will be bigger since Tim will set up KH's 20x20.)
+
+Microphones - I've got plenty.  However if you want to use a particular mic let me know and we can see if we can make it work.
+
+I have 16 inputs, HSJ will use them all; additional drum tracks when the 16 are full to be provided by a drum submix that Steve Howells will set up.
 
 ## Kiki's email announcement (5/30/22)
 
