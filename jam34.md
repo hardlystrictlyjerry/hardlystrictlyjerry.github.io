@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /deadnight2
+title: "Dead Night, Dec 6, 2022"
 ---
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Dead Night, Dec 6, 2022</h1>
