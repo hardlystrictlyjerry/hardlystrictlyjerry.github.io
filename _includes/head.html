@@ -2,7 +2,7 @@
 {%- assign pageurl = page.url | prepend: site.baseurl | prepend: site.url -%}
 {%- assign title = page.title -%}
 {%- assign description = site.description -%}
-{%- assign image = '/images/aftermidnight2.jpg' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign image = '/images/hsj-link-image.png' | prepend: site.baseurl | prepend: site.url -%}
 
 <head>
   <meta charset="utf-8">
@@ -14,11 +14,9 @@
   <meta property="og:url" content="{{ pageurl }}">
   <meta property="og:description" content="{{ title }}">
   <meta property="og:title" content="{{ title }}">
-  <!--
-    <meta property="og:image" content="{{ image }}">
-  -->
+  <meta property="og:image" content="{{ image }}">
 
-  <title>{{ site.title }}</title>
+  <title>{{ title }}</title>
 
   <!-- Load Javascript and CSS for Semantic UI -->
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
