@@ -16,3 +16,10 @@ We need to decide the setlist. Please click below for details:
 We need to figure out when we can rehearse. Please fill out the following form:
 
 <https://forms.gle/hXCbaKLZfg3tYncbA>
+
+## Next rehearsal
+
+* Tuesday, Nov 8, 6pm - 8pm, Michael Shapiro's house. 
+* Six songs: Jack Straw, Tennessee Jed, Sugaree, Cassidy, Alabama Getaway, Ramble on rose
+
+Prepare if you want, don't prepare if you don't want.  No one cares if you haven't prepared.
