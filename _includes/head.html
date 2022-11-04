@@ -1,5 +1,6 @@
 {%- assign url = '/' | prepend: site.baseurl | prepend: site.url -%}
-{%- assign title = site.title -%}
+{%- assign pageurl = page.url | prepend: site.baseurl | prepend: site.url -%}
+{%- assign title = page.title -%}
 {%- assign description = site.description -%}
 {%- assign image = '/images/aftermidnight2.jpg' | prepend: site.baseurl | prepend: site.url -%}
 
@@ -10,8 +11,8 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Hardly Strictly Jerry">
-  <meta property="og:url" content="{{ url }}">
-  <meta property="og:title" content="Hardly Strictly Jerry">
+  <meta property="og:url" content="{{ pageurl }}">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:image" content="{{ image }}">
 
   <title>{{ site.title }}</title>
