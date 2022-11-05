@@ -14,9 +14,17 @@ We need to decide the setlist. Please click below for details:
 
 ## Rehearsal schedule
 
-We need to figure out when we can rehearse. Please fill out the following form:
+Here is a summary of availability to rehearse:
 
-<https://forms.gle/hXCbaKLZfg3tYncbA>
+<img class="ui centered fluid image" src="/images/22-12-09-rehearsal-availability.png">
+
+The red X's indicate a date when someone is unavailable. 
+
+Rehearsal proposal, working backwards:
+  * Tue 12/6 or Wed 12/7, (with Steve). 6-9pm. Location: Steve's or West One?
+  * Sat 12/3 or Sun 12/4, (with Steve). 1-4 or 2-5pm? Location: MS or KH?
+  * Tue 11/22 or Sun 11/20. Afternoon or evening, depending. 
+  * Mon 11/14.  6-8pm. Location: MS?
 
 ## Next rehearsal
 
