@@ -24,3 +24,26 @@ We need to figure out when we can rehearse. Please fill out the following form:
 * Six songs: Jack Straw, Tennessee Jed, Sugaree, Cassidy, Alabama Getaway, Ramble on rose
 
 Prepare if you want, don't prepare if you don't want.  No one cares if you haven't prepared.
+
+## We got (the potential for) merch!
+
+I couldn't help myself---I contacted another graphic artist to have a go at the HSJ logo.  He just came back with:
+
+* A bumper sticker design
+* A laptop sticker design
+* A single color tshirt design.
+
+Check it out here:
+
+<https://hardlystrictlyjerry.com/images/logo-designs.jpg>
+
+There are two small issues I've already noticed:
+
+1. The bumpersticker has a misspelling ('stricktly').
+2. The fishman bear looks a bit bigger than the other ones. 
+
+Otherwise I think these are super cool (notice the lightning bolt going through a donut?)
+
+I want to get back to the artist soon with any modifications, so please take a look and LMK.
+
+I'm thinking a merch table at the Dec 6 gig. We can take pre-orders using the HSJ mailing list! 
