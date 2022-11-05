@@ -46,4 +46,4 @@ Otherwise I think these are super cool (notice the lightning bolt going through 
 
 I want to get back to the artist soon with any modifications, so please take a look and LMK.
 
-I'm thinking a merch table at the Dec 6 gig. We can take pre-orders using the HSJ mailing list! 
+I'm thinking a merch table at the Dec 9 gig. We can take pre-orders using the HSJ mailing list! 
