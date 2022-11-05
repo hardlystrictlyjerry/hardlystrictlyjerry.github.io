@@ -31,7 +31,7 @@ Rehearsal proposal, working backwards:
 * Tuesday, Nov 8, 6pm - 8pm, Michael Shapiro's house. 
 * Six songs: Jack Straw, Tennessee Jed, Sugaree, Cassidy, Alabama Getaway, Ramble on rose
 
-Prepare if you want, don't prepare if you don't want.  No one cares if you haven't prepared.
+Prepare if you want, don't prepare if you don't want.  No one cares if you don't prepare.
 
 ## We got (the potential for) merch!
 
