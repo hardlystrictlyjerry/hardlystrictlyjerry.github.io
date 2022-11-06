@@ -5,6 +5,7 @@ permalink: /ten-commandments
 
 <h1><img class="ui avatar image" src="/images/derek-trucks.jpg">Derek Trucks' 10 Commandments of Jam</h1>
 
+<img class="ui centered fluid image" src="/images/derek-trucks-commandments-both.png">
 
 ## 1. Just listen.
 
@@ -45,15 +46,3 @@ Always move forward and turn your audience on to new things instead of relying o
 ## 10. Make sure you mean what you're doing. 
 
 Do what you want and love. If you're playing with somebody, you might as well do it right. No matter what the gig, dig in and go to town. 
-
-
-### The source material
-
-Here are photos of the [first page](/images/derek-trucks-commandments-1.jpg) and the [second page](/images/derek-trucks-commandments-2.jpg).
-
-
- 
- 
-
-
-
