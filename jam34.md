@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /deadnight2
-title: "Dead Night, Dec 9, 2022"
+title: "Dead Night 12/9/2022"
 ---
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Dead Night, Dec 9, 2022</h1>
+<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Dead Night 12/9/2022</h1>
 
 ## Setlist Discussion
 
