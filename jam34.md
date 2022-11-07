@@ -41,12 +41,10 @@ Rehearsal proposal, working backwards:
 
 ## Merch 
 
-<img class="ui centered fluid image" src="/images/logo-designs.jpg">
+Here is our 2022 merch selection:
 
-I've sent the artist request for two modifications (typo in bumpersticker, fishman bear size).
+<img class="ui centered fluid image" src="/images/logo/HSJ_LogoSet.pdf">
 
 I'm thinking a merch table at the Dec 9 gig. We can take pre-orders using the HSJ mailing list!
 
-Anyone have a line on local t-shirt vendors? We can get the stickers and bumper stickers online pretty cheaply. 
-
-This doesn't have to be the "official" or "final" HSJ logo or anything like that.  It could simply be the "2022" HSJ design. If someone is inspired to do something different, we can pursue that in 2023 or whenever. I just want to have stickers to pass out at Phish NYE!
+Anyone have a line on local t-shirt vendors? We can get the stickers and bumper stickers online pretty cheaply.
