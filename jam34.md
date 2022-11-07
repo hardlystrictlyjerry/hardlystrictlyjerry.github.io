@@ -45,10 +45,8 @@ Rehearsal proposal, working backwards:
 
 ## Merch 
 
-Here is our 2022 merch selection:
+Here is our swag selection:
 
 <img class="ui centered fluid image" src="/images/logo/HSJ_LogoSet.png">
 
-I'm thinking a merch table at the Dec 9 gig. We can take pre-orders using the HSJ mailing list!
-
-Anyone have a line on local t-shirt vendors? We can get the stickers and bumper stickers online pretty cheaply.
+I'm thinking a merch table at the Dec 9 gig. I have sent an email to the HSJ mailing list and am collecting replies.
