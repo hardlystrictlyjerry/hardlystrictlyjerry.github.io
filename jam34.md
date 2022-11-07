@@ -43,7 +43,7 @@ Rehearsal proposal, working backwards:
 
 Here is our 2022 merch selection:
 
-<img class="ui centered fluid image" src="/images/logo/HSJ_LogoSet.pdf">
+<img class="ui centered fluid image" src="/images/logo/HSJ_LogoSet.png">
 
 I'm thinking a merch table at the Dec 9 gig. We can take pre-orders using the HSJ mailing list!
 
