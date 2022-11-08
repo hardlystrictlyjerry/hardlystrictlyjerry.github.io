@@ -20,9 +20,9 @@ Initial partial draft of setlist notes:
 
 * Tue, 11/8, 6-8pm. Location: Michael's. Songs: Jack Straw, Tennessee Jed, Sugaree, Cassidy, Alabama Getaway, Ramble on rose
 * Mon, 11/14, 6-8pm. Location: TBD. Songs: TBD.
-* Tue, 11/22, 6-8pm. Location: TBD. Songs: TBD.
-* Sat, 12/3, 1-4pm. Location: Kevin's. Songs: All of them. Includes Steve.
-* Wed, 12/7, 6-9pm. Location: Steves or West One?. Songs: All of them. Includes Steve.
+* Tue, 11/22, 6-8pm. Location: West One? Songs: TBD. Includes Steve.
+* Sat, 12/3, 1-4pm. Location: Kevin's. Songs: All of them. 
+* Wed, 12/7, 6-9pm. Location: West One? Songs: All of them. Includes Steve.
 
 Other possible dates include:
 * Sat, Nov 19, afternoon
