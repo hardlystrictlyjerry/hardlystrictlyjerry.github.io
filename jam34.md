@@ -24,13 +24,13 @@ Initial partial draft of setlist notes:
 * Sat, 12/3, 1-4pm. Location: Kevin's. Songs: All of them. 
 * Wed, 12/7, 6-9pm. Location: West One? Songs: All of them. Includes Steve.
 
+<!--
 Other possible dates include:
 * Sat, Nov 19, afternoon
 * Sun, Nov 20, afternoon
 * Sun, Dec 4, afternoon
 * Mon, Dec 5, evening
 
-<!--
 Here is a summary of availability to rehearse:
 
 <img class="ui centered fluid image" src="/images/22-12-09-rehearsal-availability.png">
