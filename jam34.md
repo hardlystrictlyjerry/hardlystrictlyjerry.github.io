@@ -10,7 +10,7 @@ title: "Dead Night 12/9/2022"
 
 <https://docs.google.com/document/d/1azWz8g9ZpD1RDBExOCmis8KLBuS-OERSvUvXJFlX824/edit>
 
-## Proposed rehearsal schedule
+## Rehearsals
 
 * Mon, 11/14, 5:30-8pm. Location: Michael's. 
 * Tue, 11/22, 6-10pm. Location: West One. Includes Steve.
@@ -41,7 +41,7 @@ Rehearsal proposal, working backwards:
 -->
 
 
-## Merch 
+## Swag 
 
 Here is our swag selection:
 
