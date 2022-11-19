@@ -42,4 +42,4 @@ Rehearsal proposal, working backwards:
 
 ## Swag 
 
-Our swap selection is available at the [Logo Page](logo.html).
+Our swag selection is available at the [Logo Page](logo.html).
