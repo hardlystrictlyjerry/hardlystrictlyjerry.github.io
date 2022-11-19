@@ -12,7 +12,6 @@ title: "Dead Night 12/9/2022"
 
 ## Rehearsals
 
-* Wed, 11/16, 5:30-8:30pm. Location: Michael's. 
 * Tue, 11/22, 6-10pm. Location: West One. Includes Steve.
 * Sat, 12/3, 1-5pm. Location: Kevin's. 
 * Tue, 12/6, 6-10pm. Location: West One. Includes Steve.
@@ -43,8 +42,4 @@ Rehearsal proposal, working backwards:
 
 ## Swag 
 
-Here is our swag selection:
-
-<img class="ui centered fluid image" src="/images/logo/HSJ_LogoSet.png">
-
-I'm thinking a merch table at the Dec 9 gig. I have sent an email to the HSJ mailing list and am collecting replies.
+Our swap selection is available at the [Logo Page](logo.html).
