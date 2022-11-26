@@ -6,7 +6,7 @@ permalink: /tshirt
 
 Please use this page to:
 
-1. Determine the size, color, and style of t-shirt(s) you would like us to print for you.
+1. Determine the size, color, and style of t-shirt(s) you want us to print for you.
 2. Determine the format of the email to send with your order.
 
 All t-shirts will be printed using white ink.  Here's an example of the design in white ink:
