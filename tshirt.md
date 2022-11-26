@@ -11,7 +11,7 @@ Please use this page to:
 
 All t-shirts will be printed using white ink.  Here's an example of the design in white ink:
 
-<img class="ui centered fluid image" src="/images/tshirts/HSJ_Tshirt-White.png">
+<img class="ui centered fluid image" src="/images/logo/tshirt-design.png">
 
 ## Step 1: Decide the style(s) and size(s) of your t-shirt(s)
 
