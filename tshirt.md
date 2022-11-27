@@ -7,9 +7,9 @@ permalink: /tshirt
 Please use this page to:
 
 1. Determine the size, color, and style of t-shirt(s) you want us to print for you.
-2. Determine the format of the email to send with your order.
+2. Determine the format of the email to send with your order. **We must receive your email by Sunday, Nov 27, midnight!**
 
-All t-shirts will be printed using white ink.  Here's an example of the design in white ink:
+All t-shirts will be printed using white ink.  Here's an example of the design in white ink (ignore the red background color):
 
 <img class="ui centered fluid image" src="/images/logo/tshirt-design.png">
 
@@ -75,5 +75,7 @@ I would like a total of 5 t-shirts:
 
 Thanks!
 ```
+
+**Reminder: We need to receive your email by Sunday, Nov 27, at midnight.**
 
 T-shirts will be available for pickup at the Dec. 9 gig at Hawaiian Brian's. Or we can arrange a pickup afterwards. 
