@@ -35,6 +35,10 @@ But don't take my word for any of the above; see for yourself:
 
 <div class="ui embed" data-source="youtube" data-id="FqzqxYzKGvE"></div>
 
+### Crowd Clips (Playlist)
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/videoseries?list=PL-iE2lvAri0TCxKxxaQRZ9GKMm47xBk8x" ></div>
+
 ### Poster
 
 <img class="ui centered fluid image" src="/images/hsj-dec-2022-3.png">
