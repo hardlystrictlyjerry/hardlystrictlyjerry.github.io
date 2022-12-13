@@ -1,45 +1,40 @@
 ---
 layout: page
-permalink: /deadnight2
+permalink: /dec2022
 title: "Dead Night 12/9/2022"
 ---
 
 <h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Dead Night 12/9/2022</h1>
 
-## Setlist
+<img class="ui centered fluid image" src="/images/hsj-dec-2022-1.png">
 
-<https://docs.google.com/document/d/1azWz8g9ZpD1RDBExOCmis8KLBuS-OERSvUvXJFlX824/edit>
+With Steve Howells pinch-hitting at the drum kit, HSJ played its second Honolulu Dead Night. The place was packed, the joint was jumpin', and it seems a great time was had by all. 
 
-## Rehearsals
+First Set: Cold Rain and Snow, Sugaree, Cassidy->Jack Straw, Alabama Getaway, Tennessee Jed, China->Rider, Lonesome and a Long Way from Home.
 
-* Tue, 11/22, 6-10pm. Location: West One. Includes Steve.
-* Sat, 12/3, 1-5pm. Location: Kevin's. 
-* Tue, 12/6, 6-10pm. Location: West One. Includes Steve.
+Second Set: Big Railroad Blues, New Speedway Boogie, Candyman, Ramble On Rose, West LA Fadeaway, Sugar Magnolia->Scarlet->Fire->Sunshine Daydream
 
-<!--
+Encore: Blaze On, Casey Jones. 
 
-Preliminary discussion with setlist ideas, including Michael's suggestions at bottom: 
+I know, I know: China->Rider and Scarlet->Fire in the same show? Turns out the Dead actually did it 40 years ago to the day on [12-09-81](https://archive.org/details/gd81-12-09.sbd.clugston.13061.sbeok.shnf). 
 
-<https://docs.google.com/document/d/1gwz838x-ze5SmF_cUq2q9961Hm-fp5J1a9sbINjGMDA/edit#>
+Not to say we always need historical approval: our encore started with Blaze On, for our first performance Phish tune. The crowd (at least the ones in front) appeared to be delighted.
 
-Other possible dates include:
-* Sat, Nov 19, afternoon
-* Sun, Nov 20, afternoon
-* Sun, Dec 4, afternoon
-* Mon, Dec 5, evening
+Speaking of Phish/Dead combinations, this show premiered our first HSJ swag:
 
-Here is a summary of availability to rehearse:
+<img class="ui centered fluid image" src="/images/hsj-dec-2022-2.png">
 
-<img class="ui centered fluid image" src="/images/22-12-09-rehearsal-availability.png">
+But don't take my word for it, see for yourself:
 
-Rehearsal proposal, working backwards:
-  * Tue 12/6 or Wed 12/7, (with Steve). 6-9pm. Location: Steve's or West One?
-  * Sat 12/3 or Sun 12/4, (with Steve). 1-4 or 2-5pm? Location: MS or KH?
-  * Tue 11/22 or Sun 11/20. Afternoon or evening, depending. 
-  * Mon 11/14.  6-8pm. Location: MS?
--->
+### Set 1
+
+<div class="ui embed" data-source="youtube" data-id="zuTKo0a1ILg"></div>
 
 
-## Swag 
+### Set 2
 
-Our swag selection is available at the [Logo Page](logo.html).
+<div class="ui embed" data-source="youtube" data-id="FqzqxYzKGvE"></div>
+
+### Poster
+
+<img class="ui centered fluid image" src="/images/hsj-dec-2022-3.png">
