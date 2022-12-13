@@ -18,7 +18,7 @@ Encore: Blaze On, Casey Jones.
 
 I know, I know: China->Rider and Scarlet->Fire in the same show? Turns out the Dead actually did it 40 years ago to the day on [12-09-81](https://archive.org/details/gd81-12-09.sbd.clugston.13061.sbeok.shnf). 
 
-Not to say we always need historical approval: our encore started with Blaze On, for our first performance Phish tune. The crowd (at least the ones in front) appeared to be delighted.
+Not to say we always need historical approval: our encore started with Blaze On, for our first performance Phish tune. The crowd (at least the ones in front) appeared to be delighted. Now we actually live up to our name! 
 
 Speaking of Phish/Dead combinations, this show premiered our first HSJ swag:
 
