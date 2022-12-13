@@ -37,7 +37,7 @@ But don't take my word for any of the above; see for yourself:
 
 ### Crowd Clips (Playlist)
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/videoseries?list=PL-iE2lvAri0TCxKxxaQRZ9GKMm47xBk8x" ></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-iE2lvAri0TCxKxxaQRZ9GKMm47xBk8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Poster
 
