@@ -8,7 +8,7 @@ title: "Dead Night 12/9/2022"
 
 <img class="ui centered fluid image" src="/images/hsj-dec-2022-1.png">
 
-With Steve Howells pinch-hitting at the drum kit, HSJ played its second Honolulu Dead Night. The place was packed, the joint was jumpin', and it seems a great time was had by all. 
+With Steve Howells pinch-hitting at the drum kit, HSJ played its second Honolulu Dead Night. The place was packed, the joint was jumpin', and a great time was apparently had by all. 
 
 First Set: Cold Rain and Snow, Sugaree, Cassidy->Jack Straw, Alabama Getaway, Tennessee Jed, China->Rider, Lonesome and a Long Way from Home.
 
@@ -24,7 +24,7 @@ Speaking of Phish/Dead combinations, this show premiered our first HSJ swag:
 
 <img class="ui centered fluid image" src="/images/hsj-dec-2022-2.png">
 
-But don't take my word for it, see for yourself:
+But don't take my word for any of the above; see for yourself:
 
 ### Set 1
 
