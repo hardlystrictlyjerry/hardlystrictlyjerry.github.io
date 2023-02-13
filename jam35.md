@@ -4,7 +4,7 @@ permalink: /apr2023
 title: "Dead Night 4/1/2023"
 ---
 
-<h1><img class="ui avatar image" src="/images/jerryavatar.jpg">Dead Night 4/1/2023</h1>
+<h1><img class="ui avatar image" src="/images/hsj-circle-logo.png">Dead Night 4/1/2023</h1>
 
 ## Rehearsal Schedule (more to come)
 
