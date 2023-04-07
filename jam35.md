@@ -40,13 +40,3 @@ The sound for Set 2 is from the soundboards. I learned how to adjust the mix dyn
 ## The poster
 
 <img class="ui centered fluid image" src="/images/hsj-apr-2023-poster.png">
-
-
-
-
-
-
-https://www.youtube.com/watch?v=vwCYbbgNQK0
-
-
-https://www.youtube.com/watch?v=8qmAkniHnm4
