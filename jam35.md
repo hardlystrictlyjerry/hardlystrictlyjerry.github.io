@@ -8,7 +8,7 @@ title: "Dead Night 4/1/2023"
 
 <img class="ui centered fluid image" src="/images/hsj-apr-2023.jpg">
 
-HSJ's third appearance at Honolulu Dead Night inadvertently illustrated our informal band motto: "We may stumble, but we do not fall."  Once again, Steve Howells was pinch-hitting for Paul Perrone who was still recovering from an elbow injury. On top of that, Kevin Holder came down with COVID five days before the gig, and Matt's friend Forrest stepped up with only a few days notice to learn 20 tunes.  Had anyone else gone down, we would have needed to rename the band "(Hardly) Hardly Strictly Jerry".
+HSJ's third appearance at Honolulu Dead Night inadvertently illustrated our informal band motto: "We may stumble, but we do not fall."  Once again, Steve Howells was pinch-hitting for Paul Perrone who was still recovering from an elbow injury. On top of that, Kevin Holder came down with COVID five days before the gig, and so Forrest Simpson stepped up with only a few days notice to learn 20 tunes.  Had anyone else gone down, we would have needed to rename the band "(Hardly) Hardly Strictly Jerry".
 
 Despite this adversity, we managed to have a great time and the crowd was vocal, appreciative, and high energy. It was super fun.
 
