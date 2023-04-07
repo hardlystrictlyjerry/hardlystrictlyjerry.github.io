@@ -9,6 +9,7 @@ We play the music that Jerry wrote, the music that Jerry covered, and sometimes 
 
 Do you like Jerry's music? Email <a href="mailto:hardlystrictlyjerry@gmail.com">hardlystrictlyjerry@gmail.com</a> for more information.
 
+<p></p><div class="ui embed" data-source="youtube" data-id="8qmAkniHnm4"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="lSU59tEznew"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="eLiSf5H6rUU"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="8HazayQI2Ms"></div>
