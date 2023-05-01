@@ -19,3 +19,7 @@ Thirteen songs got 5 out of 6 votes: After Midnight, China Rider, Good Lovin, Lo
 ## The rest of the pack
 
 These songs received less votes than the above, but no more than one "prefer not": Alabama Getaway, Big Railroad Blues, Blaze On, Brown Eyed Women, Candyman, Casey Jones, Cold Rain and Snow, GDTRFB, Golden Road, Loose Lucy, New Speedway, NFA, Peggy O, Ramble on Rose, Samson and Delilah, One more Sat Night, Second that emotion, Terrapin, US Blues, Valerie
+
+## Core Repertoire Jam Notes
+
+Jam Notes page for these songs available [here](https://docs.google.com/document/d/1qBB5dRaFMKe4xW14PPhtYwCpDX2HZ52E5WoRnd4CjTE/edit?usp=sharing).
