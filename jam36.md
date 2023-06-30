@@ -31,14 +31,15 @@ PLEASE CONFIRM ADDITIONAL GUESTS WITH JOHN OR MARIE!
 ## Timeline
 
 JULY 3rd (MON):
-* 5:00pm: set up tent
-* 6:00pm: setup lights
-* 7:00pm: test lighting/projector
+* 5:00pm: set up tent, hang lighting, projector
+* After dark: test lights/projector
+
 
 JULY 4th (TUE):
-* 12:00pm: Load in
-* 3:30pm: Sound check
-* 4:30-6pm:  Potluck Feast
+* 12:00pm: PA Load in
+* 1:00pm: Band load in
+* 3:00pm: Sound check
+* 5:00pm: Potluck
 * 6:15-7:45pm: 1st Set
 * 7:45-8:30pm: BREAK (Fireworks)
 * 8:30-10pm: 2nd Set
@@ -48,4 +49,4 @@ JULY 5th (WED):
 
 ## Setlist notes
 
-Available [here](/resources/2023-07-04-v5.pdf)
+Available [here](/resources/2023-07-04-v6.pdf)
