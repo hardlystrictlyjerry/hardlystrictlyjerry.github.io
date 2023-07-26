@@ -2,6 +2,13 @@
 layout: home
 ---
 
+<div class="ui message">
+<p>Looking for tickets to the August 19, 2023 Sunshine Family Farm benefit?</p> 
+
+<p>Here's the link: <a href="https://www.tickettailor.com/events/sunshinefamilyfarm/961611">https://www.tickettailor.com/events/sunshinefamilyfarm/961611</a></p>
+</div>
+
+
 Jerry Garcia played many different styles &mdash; rock, jazz, fusion, gospel, soul, Motown, bluegrass, funk, and folk &mdash; sometimes combining a few within the same tune! It's fun to play Jerry's music in part because of this lack of stylistic limitation.
 
 We play the music that Jerry wrote, the music that Jerry covered, and sometimes the music we think Jerry might have liked had he been around to hear it.
