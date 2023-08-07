@@ -11,9 +11,12 @@ title: "Sunshine Family Farm Fundraiser"
 **Where:** Sunshine Family Farm (see directions below)
 
 **Timing:**
-  * 1:00pm: Load in 
-  * 3:00pm: Sound check
-  * 4:00pm: Doors
+  * 12:00pm: PA Load in 
+  * 1:00pm: Band Load in 
+  * 2:00pm: Line check
+  * 3:00pm: Sound check (HSJ)
+  * 3:45pm: Sound check (Opener)
+  * 4:15pm: Doors
   * 5:00pm: Opening act
   * 6:00pm: First set
   * 7:30pm: Second set
