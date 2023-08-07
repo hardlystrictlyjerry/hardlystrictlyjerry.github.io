@@ -12,6 +12,7 @@ title: "Sunshine Family Farm Fundraiser"
 
 **Timing:**
   * Load in: 1pm 
+  * Doors: 4pm
   * Opening act: 5pm
   * First set: 6pm 
   * Second set: 7:30pm
