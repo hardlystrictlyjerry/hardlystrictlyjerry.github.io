@@ -11,12 +11,13 @@ title: "Sunshine Family Farm Fundraiser"
 **Where:** Sunshine Family Farm (see directions below)
 
 **Timing:**
-  * Load in: 1pm 
-  * Doors: 4pm
-  * Opening act: 5pm
-  * First set: 6pm 
-  * Second set: 7:30pm
-  * Load out: 9pm
+  * 1:00pm: Load in 
+  * 3:00pm: Sound check
+  * 4:00pm: Doors
+  * 5:00pm: Opening act
+  * 6:00pm: First set
+  * 7:30pm: Second set
+  * 9:00pm Load out
 
 **Directions:**
 * Follow Google Maps to 68-670 Farrington Hwy.
