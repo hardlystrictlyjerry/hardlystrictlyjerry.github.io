@@ -11,7 +11,7 @@ title: "Sunshine Family Farm Fundraiser"
 **Where:** Sunshine Family Farm (see directions below)
 
 **Timing:**
-  * Load in: 2pm 
+  * Load in: 1pm 
   * First set: 6pm 
   * Second set: 7:30pm
 
