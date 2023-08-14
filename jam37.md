@@ -29,3 +29,5 @@ title: "Sunshine Family Farm Fundraiser"
 * Then go right and just keep coming down through 2 more gates. There’s 3 gates total before our spot. 
 * Come through the 3rd gate and follow fork to the right (heading away from the mountain) to the end. We are on the left at the very end.
 * **Gate code: "0819 send" for all three gates.**
+
+<img class="ui centered fluid image" src="/images/hsj-aug-2023.jpg">
