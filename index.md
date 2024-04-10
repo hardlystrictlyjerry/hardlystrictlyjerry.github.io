@@ -10,16 +10,15 @@ Do you like Jerry's music? Email <a href="mailto:hardlystrictlyjerry@gmail.com">
 
 ## Audio and video samples
 
-<div class="ui message">
-<p>Paul's SoundCloud Playlist of ~30 HSJ tunes from 2016-present</p> 
-
-<p> <a href="https://soundcloud.com/paulperrone/sets/hardlystrictlyjerry">https://soundcloud.com/paulperrone/sets/hardlystrictlyjerry</a></p>
-</div>
-
-
 <p></p><div class="ui embed" data-source="youtube" data-id="8qmAkniHnm4"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="eLiSf5H6rUU"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="8HazayQI2Ms"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="_lnnOWe8jlY"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="TA0WfmZj-dg"></div>
 <p></p><div class="ui embed" data-source="youtube" data-id="zKg3UYMRzT8"></div>
+
+<div class="ui message">
+<p>Paul's SoundCloud Playlist of ~30 HSJ tunes from 2016-present</p> 
+
+<p> <a href="https://soundcloud.com/paulperrone/sets/hardlystrictlyjerry">https://soundcloud.com/paulperrone/sets/hardlystrictlyjerry</a></p>
+</div>
