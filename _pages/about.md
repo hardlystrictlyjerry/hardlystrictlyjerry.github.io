@@ -10,6 +10,7 @@ Hardly Strictly Jerry was born in 2016 on a lanai in Kailua, Hawaii, where a mus
 Over the years, many musicians have been a part of the HSJ ohana, including: 
 Thomas Cummings,
 Dan Curran, 
+Jason Forrester,
 Kevin Holder, 
 Steve Howells,
 Philip Johnson,
