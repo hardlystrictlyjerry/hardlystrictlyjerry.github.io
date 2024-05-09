@@ -1,0 +1,31 @@
+{%- assign url = '/' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign pageurl = page.url | prepend: site.baseurl | prepend: site.url -%}
+{%- assign title = page.title -%}
+{%- assign description = site.description -%}
+{%- assign image = '/images/logo/HSJ_OG_Image.png' | prepend: site.baseurl | prepend: site.url -%}
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Hardly Strictly Jerry">
+  <meta property="og:url" content="{{ pageurl }}">
+  <meta property="og:description" content="{{ title }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:image" content="{{ image }}">
+
+  <title>{{ title }}</title>
+
+  <!-- Load Javascript and CSS for Semantic UI -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/css/semantic-ui/semantic.min.js"></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/semantic-ui/semantic.min.css">
+
+  <!-- Load Techfolio CSS customizations -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-default.css">
+
+  <link href="/favicon.ico?v=3" rel="shortcut icon" type="image/x-icon" />
+
+</head>

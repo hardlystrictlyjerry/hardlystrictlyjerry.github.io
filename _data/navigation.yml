@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Videos"
+    url: /videos/
+  - title: "Posters"
+    url: /posters/
+  - title: "Instagram"
+    url: "https://instagram.com/hardlystrictlyjerry"
