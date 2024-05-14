@@ -18,7 +18,7 @@ email: "hardlystrictlyjerry@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Honolulu Jam Band
 twitter_username: hardlystrictlyjerry
-github_username: newhsj
+github_username: hardlystrictlyjerry
 minimal_mistakes_skin: dark
 search: false
 github: [metadata]
@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Honolulu # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 atom_feed:
   hide: true
@@ -48,13 +48,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Hardly Strictly Jerry"
+  avatar : "/assets/images/hsj-circle-logo.png"
+  bio    : "Kicking out the jams on Oahu since 2016"
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/hardlystrictlyjerry"
 
 footer:
   links:
@@ -70,10 +70,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
