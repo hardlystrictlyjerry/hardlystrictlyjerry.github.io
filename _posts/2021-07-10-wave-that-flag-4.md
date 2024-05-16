@@ -21,3 +21,7 @@ Setlist: Sugar Magnolia, Bertha, Second that Emotion, Ramble on Rose, Gomorrah, 
 ## Second set
 
 {% include video.html id="clokkC1EZq0" provider="youtube" %}
+
+## Poster
+
+{% include image.html image="posters/poster-2021-07-04.jpg" %}

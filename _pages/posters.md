@@ -17,6 +17,9 @@ title: "Posters"
 <h1>December 9, 2022</h1>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2022-12-09.png" alt="">
 
+<h1>July 10, 2021</h1>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2021-07-04.jpg" alt="">
+
 <h1>December 31, 2019</h1>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2019-12-31.png" alt="">
 
