@@ -17,7 +17,7 @@ title: "Hardly Strictly Jerry"
 email: "hardlystrictlyjerry@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Honolulu Jam Band
-twitter_username: hardlystrictlyjerry
+# twitter_username: hardlystrictlyjerry
 github_username: hardlystrictlyjerry
 minimal_mistakes_skin: dark
 search: false
@@ -46,6 +46,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+og_image : "/assets/images/hsj-circle-logo.png" # Open Graph/Twitter
 
 author:
   name   : "Hardly Strictly Jerry"

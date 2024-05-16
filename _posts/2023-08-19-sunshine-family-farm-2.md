@@ -1,6 +1,5 @@
 ---
-title: "Sunshine Family Farm"
-date: 2023-08-19T00:00:00
+title: "Sunshine Family Farm 2"
 ---
 
 Our thanks to Kiki and Tim for having us as the band for their second annual Sunshine Family Farm fundraiser.

@@ -1,6 +1,5 @@
 ---
 title: "Wave That Flag 5"
-date: 2023-07-04T00:00:00
 ---
 
 John Stallings and Marie Heff hosted HSJ's fifth July 4 celebration, just steps from Kailua Beach Park and the fireworks.  Kevin Holder went the extra mile (or was it three?) to create an epic stage with a 10 foot high tent, drum risers, and various trimmings.  Kevin Hughes (KH7) came through with an awesome light show. It was super fun.
