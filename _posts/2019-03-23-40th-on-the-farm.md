@@ -1,5 +1,5 @@
 ---
-title: "Kevin's 40th on the farm"
+title: "Kevin's 40th on the Farm"
 ---
 
 Kevin and Tricia threw an absolutely epic 40th birthday party and Hardly Strictly Jerry was there!
