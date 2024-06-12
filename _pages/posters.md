@@ -5,6 +5,10 @@ title: "Posters"
 ---
 
 <figure style="padding-top: 20px; width: 75%" class="align-center">
+
+<h1>June 21, 2024</h1>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2024-06-21.png" alt="">
+
 <h1>April 5, 2024</h1>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2024-04-05.png" alt="">
 
