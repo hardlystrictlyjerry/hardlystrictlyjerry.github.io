@@ -4,7 +4,9 @@ layout: splash
 title: "Care Waialua"
 ---
 
-We're so happy you are joining us for Dark Side of the Beach and Hardly Strictly Jerry at Care Wailua! 
+# HSJ at Care Wailua
+
+We're so happy you are joining us along with Dark Side of the Beach for our last show of 2024 at Care Wailua! 
 
 ## Details 
 
