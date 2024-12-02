@@ -4,9 +4,9 @@ layout: splash
 title: "Care Waialua"
 ---
 
-# HSJ at Care Wailua
+# HSJ at Care Waialua
 
-We're so happy you are joining us along with Dark Side of the Beach for our last show of 2024 at Care Wailua! 
+We're so happy you are joining us along with Dark Side of the Beach for our last show of 2024 at Care Waialua! 
 
 ## Details 
 
