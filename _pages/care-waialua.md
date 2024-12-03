@@ -12,6 +12,7 @@ We're so happy you are joining us along with Dark Side of the Beach for our last
 
 * Date: Saturday, December 7, 2024
 * Doors: 5:30pm 
+* Food/Beverage: BYOB. Coolers allowed. There will be food for purchase and you can refill your water bottle.
 * Tickets: [https://www.eventbrite.com/e/care-waialua-concert-hardly-strictly-jerry-and-dark-side-of-the-beach-tickets-1081510740739](https://www.eventbrite.com/e/care-waialua-concert-hardly-strictly-jerry-and-dark-side-of-the-beach-tickets-1081510740739)
 
 ## Directions
