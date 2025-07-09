@@ -1,5 +1,5 @@
 ---
-title: "Wave That Flag 5"
+title: "Wave That Flag 6"
 ---
 
 John Stallings invited us to organize the music for his annual Fourth of July party. Kevin Holder took the reins and organized a super fun evening. He wrangled around a dozen musicians into three sets: acoustic bluegrass and a Phish-tinged sets before the fireworks, and an electric HSJ set after the (I kid you not) 10 minute fireworks display. (People around me at the beach were like, "Is that it? It's over? That was the finale?" Good old Kailua.)
