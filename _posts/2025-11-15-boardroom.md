@@ -20,6 +20,9 @@ Dashin Dave Excerpts:
 {% include video.html id="3j_PTDEdzF0" provider="youtube" %}
 {% include video.html id="j0PD24CQ4F4" provider="youtube" %}
 {% include video.html id="6q34Ts09ork" provider="youtube" %}
+{% include video.html id="kwUtD6VCzf8" provider="youtube" %}
+{% include video.html id="rR_99lFLdcU" provider="youtube" %}
+{% include video.html id="AP1f1SF3WkA" provider="youtube" %}
 
 
 
