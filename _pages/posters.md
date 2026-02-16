@@ -6,6 +6,9 @@ title: "Posters"
 
 <figure style="padding-top: 20px; width: 75%" class="align-center">
 
+<h1>February 14, 2026</h1>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2026-02-14.png" alt="">
+
 <h1>April 5, 2025</h1>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posters/poster-2025-04-05.png" alt="">
 
