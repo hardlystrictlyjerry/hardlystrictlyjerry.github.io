@@ -2,7 +2,7 @@
 title: "Happy Valentines Day"
 ---
 
-HSJ returned to the "The Garden" at the Board Room in Kailua for Valentine's Day, 2026.  We had great sound, no rain, and we livened up the festivities with "Hardly Strictly Jerry Bingo":
+HSJ returned to the "The Garden" at the Board Room in Kailua for Valentine's Day, 2026.  We had great sound, no rain, a banging poster by Kenna Zohner, and we livened up the festivities with "Hardly Strictly Jerry Bingo":
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2026-02-14-bingo.png" alt="">
 
