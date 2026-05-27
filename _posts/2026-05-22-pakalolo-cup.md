@@ -11,6 +11,31 @@ Encore: Casey Jones, Not Fade Away, GDTRFB.
 
 Impromptu second encore when the next band was late: Shakedown Street.
 
+## Video Excerpts
+
+All videos thanks to Terrie Stohl.
+
+<div class="responsive-video-container">
+  <iframe src="https://www.youtube.com/embed/DnXbr041jtw" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class="responsive-video-container">
+  <iframe src="https://www.youtube.com/embed/UXXnYUiyIr8" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class="responsive-video-container">
+  <iframe src="https://www.youtube.com/embed/sqxPbE7Iqr0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class="responsive-video-container">
+  <iframe src="https://www.youtube.com/embed/UX1wtVcQkYw" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
 ## The poster
 
 {% include image.html image="posters/poster-2026-05-22.png" %}
