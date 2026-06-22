@@ -1,5 +1,7 @@
 ---
 title: "Pakalolo Cup 2026"
+header:
+  og_image: /assets/images/posters/poster-2026-05-22.png
 ---
 
 The gig marked the return of Steve Howells to HSJ, and the general consensus 
