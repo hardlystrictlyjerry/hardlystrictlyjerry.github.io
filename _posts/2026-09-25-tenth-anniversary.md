@@ -20,9 +20,9 @@ One of our friends texted me this:
 
 *Thanks again for such an epic night of music last night! I'm so proud of you guys and so stoked to hear you all playing so well together and lighting up the crowd like you do!!!*
 
-Another friend commented to Joanne when we started the William Tell Bridge during St. Stephen:
+Another friend commented to Joanne when we started the William Tell Bridge:
 
-*"I've never heard **any** band play this part before."*
+*"I've never heard **any** band play this part of St. Stephen before."*
 
 
 First Set: Samson and Delilah, Alabama Getaway, Jack Straw, Don't Let Go, Mississippi Half-Step, St. Stephen, The Eleven, Franklin's Tower, Stella Blue, Sugar Magnolia
